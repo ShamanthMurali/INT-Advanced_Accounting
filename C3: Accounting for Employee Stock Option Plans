@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T22:07:03.225Z" agent="5.0 (X11)" version="14.5.7" etag="OtYUjYtL3eAKnxfq5FHF" type="github"><diagram id="Fy2hQaFyj5nfAJLwqQMq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-04T22:12:33.257Z" agent="5.0 (X11)" etag="PN3n33eoSVn5Lb5x5b8k" version="14.5.7" type="github">
+  <diagram id="Fy2hQaFyj5nfAJLwqQMq" name="Page-1">
+    <mxGraphModel dx="590" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-2" target="z3kOPlYkljQr6b6lWWEr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-2" value="Employee Stock Option Plans" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-3" value="&lt;div&gt;Company gives their employees a right to buy shares at a very concessional price if they work in the company uninterrupted for a specific said time.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; it is done to retain the employee&lt;/div&gt;&lt;div&gt;&amp;gt; it makes harder for competitors to snatch an employee from the company.&lt;/div&gt;&lt;div&gt;&amp;gt; it also increases employee motivation.&amp;nbsp; &amp;nbsp; &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="360" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
