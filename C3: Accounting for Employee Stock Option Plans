@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T22:26:45.354Z" agent="5.0 (X11)" etag="popiqCN2xQtQZKQKLduj" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-04T22:45:38.707Z" agent="5.0 (X11)" etag="uSyKp333GmUf4ukU92u2" version="14.5.7" type="github">
   <diagram id="Fy2hQaFyj5nfAJLwqQMq" name="Page-1">
-    <mxGraphModel dx="707" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1557" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,14 +28,226 @@
         <mxCell id="z3kOPlYkljQr6b6lWWEr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-7" target="z3kOPlYkljQr6b6lWWEr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z3kOPlYkljQr6b6lWWEr-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Important terms&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;Exercise price&lt;/b&gt;&lt;/u&gt; = the concessional price at the right to a share is give to the employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;market price / fair value&lt;/b&gt;&lt;/u&gt; = the price of the share in the market. the price employee had to pay if he had bought in the market&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Intrinsic value&lt;/b&gt;&lt;/u&gt; = market price / fair value - Exercise price&lt;/div&gt;&lt;div&gt;[the difference in the exercise price and the market price]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;face value&lt;/b&gt;&lt;/u&gt; = the face value share issued by the company.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;Grant date&lt;/b&gt;&lt;/u&gt; =&amp;nbsp; date when employee and the company entry into ESOP contract.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. &lt;u&gt;&lt;b&gt;Vesting period&lt;/b&gt;&lt;/u&gt; = the duration/amount of time the employee has to work uninterrupted in the company.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;Exercise period&lt;/b&gt;&lt;/u&gt; = the period in which the employee has to buy the shares. exercise period comes after fulfilling the vesting period. if the shares are not purchased within the exercise period then the ESOP for those shares will get lapsed&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="440" height="330" as="geometry" />
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Important terms&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;u&gt;&lt;b&gt;Exercise price&lt;/b&gt;&lt;/u&gt;(EP) = the concessional price at the right to a share is give to the employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. &lt;u&gt;&lt;b&gt;market price / fair value&lt;/b&gt;&lt;/u&gt;(MP) = the price of the share in the market. the price employee had to pay if he had bought in the market&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. &lt;u&gt;&lt;b&gt;Intrinsic value&lt;/b&gt;&lt;/u&gt;(IV) = market price / fair value - Exercise price&lt;/div&gt;&lt;div&gt;[the difference in the exercise price and the market price]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. &lt;u&gt;&lt;b&gt;face value&lt;/b&gt;&lt;/u&gt;(FV) = the face value share issued by the company.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. &lt;u&gt;&lt;b&gt;Grant date&lt;/b&gt;&lt;/u&gt;(GD) =&amp;nbsp; date when employee and the company entry into ESOP contract.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. &lt;u&gt;&lt;b&gt;Vesting period&lt;/b&gt;&lt;/u&gt;(VPed) = the duration/amount of time the employee has to work uninterrupted in the company.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. &lt;u&gt;&lt;b&gt;Exercise period&lt;/b&gt;&lt;/u&gt;(EPed) = the period in which the employee has to buy the shares. exercise period comes after fulfilling the vesting period. if the shares are not purchased within the exercise period then the ESOP for those shares will get lapsed&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="440" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-9" target="z3kOPlYkljQr6b6lWWEr-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z3kOPlYkljQr6b6lWWEr-9" value="&lt;div&gt;When &lt;u&gt;&lt;b&gt;vesting period&lt;/b&gt;&lt;/u&gt; is&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;less than 1 year&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z3kOPlYkljQr6b6lWWEr-10" value="&lt;div&gt;When &lt;u&gt;&lt;b&gt;vesting period&lt;/b&gt;&lt;/u&gt; is&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;more than 1 year&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="160" height="40" as="geometry" />
+          <mxGeometry x="640" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-13" target="z3kOPlYkljQr6b6lWWEr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-13" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="700" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-13">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-15" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;When ESOP is granted&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-14">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-16" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Employee compensation A/c DR.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To ESOP O/s A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-14">
+          <mxGeometry x="100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-17" value="&lt;div&gt;&lt;b&gt;x(IV)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x(IV)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-14">
+          <mxGeometry x="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-18" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;on the GD the expense to be realized in the future is recognized with O/s A/c&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-14">
+          <mxGeometry x="340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-20" target="z3kOPlYkljQr6b6lWWEr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-20" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="760" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-20">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-22" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;if any ESOP gets lapsed during VPed&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-21">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-23" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;b&gt;ESOP O/s A/c DR.&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Employee compensation A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-21">
+          <mxGeometry x="100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-24" value="&lt;div&gt;&lt;b&gt;x(IV)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x(IV)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-21">
+          <mxGeometry x="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-25" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the entry for the that &lt;u&gt;&lt;b&gt;lapsed amt&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;is reversed&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-21">
+          <mxGeometry x="340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-29" target="z3kOPlYkljQr6b6lWWEr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-29" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="820" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-29">
+          <mxGeometry width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-31" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ESOP is purchased &lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;in EPed&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-30">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-32" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Bank A/c DR.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;ESOP O/s  A/c DR.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Equity Capital  A/c&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Securities Premium&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-30">
+          <mxGeometry x="100" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-33" value="&lt;div&gt;x(EP)&lt;/div&gt;&lt;div&gt;x(IV)&lt;/div&gt;&lt;div&gt;x(FV)&lt;/div&gt;&lt;div&gt;x(&lt;font style=&quot;font-size: 10px&quot;&gt;Bal fig.&lt;/font&gt;)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-30">
+          <mxGeometry x="290" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-34" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the entry for the that &lt;u&gt;&lt;b&gt;amt&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;of shares exercised in the EPed&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-30">
+          <mxGeometry x="340" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-42" target="z3kOPlYkljQr6b6lWWEr-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-42" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="900" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-43" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-42">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-44" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ESOP lapsed due non purchase in EPed&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-43">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-45" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;b&gt;ESOP O/s A/c DR.&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Employee compensation A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-43">
+          <mxGeometry x="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-46" value="&lt;div&gt;&lt;b&gt;x(IV)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x(IV)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-43">
+          <mxGeometry x="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-47" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the entry for the that &lt;u&gt;&lt;b&gt;lapsed amt&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;is reversed&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-43">
+          <mxGeometry x="340" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-49" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="970" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-49">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-51" value="Employee compensation tranfered to P/L" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-50">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-52" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;b&gt;P/L A/c DR.&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Employee compensation A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-50">
+          <mxGeometry x="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-53" value="&lt;div&gt;&lt;b&gt;x&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-50">
+          <mxGeometry x="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-54" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the&lt;b&gt; &lt;/b&gt;total of employee compensation is &lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;transferred to profit and loss account&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-50">
+          <mxGeometry x="340" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="z3kOPlYkljQr6b6lWWEr-59" parent="1" source="z3kOPlYkljQr6b6lWWEr-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="z3kOPlYkljQr6b6lWWEr-58" target="z3kOPlYkljQr6b6lWWEr-66" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-58" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-58">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-60" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;When ESOP is granted&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-59">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-61" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Employee compensation A/c DR.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To ESOP O/s A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-59">
+          <mxGeometry x="100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-62" value="&lt;div&gt;&lt;b&gt;x(IV)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x(IV)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-59">
+          <mxGeometry x="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-63" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;on the GD the expense to be realized in the future is recognized with O/s A/c&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-59">
+          <mxGeometry x="340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="z3kOPlYkljQr6b6lWWEr-65" target="z3kOPlYkljQr6b6lWWEr-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-65" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-66" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-65">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-67" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;if any ESOP gets lapsed during VPed&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-66">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-68" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;b&gt;ESOP O/s A/c DR.&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Employee compensation A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-66">
+          <mxGeometry x="100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-69" value="&lt;div&gt;&lt;b&gt;x(IV)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x(IV)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-66">
+          <mxGeometry x="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-70" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the entry for the that &lt;u&gt;&lt;b&gt;lapsed amt&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;is reversed&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-66">
+          <mxGeometry x="340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="z3kOPlYkljQr6b6lWWEr-72" target="z3kOPlYkljQr6b6lWWEr-80" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-72" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="440" y="820" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-72">
+          <mxGeometry width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-74" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ESOP is purchased &lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;in EPed&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-73">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-75" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Bank A/c DR.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;ESOP O/s  A/c DR.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Equity Capital  A/c&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Securities Premium&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-73">
+          <mxGeometry x="100" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-76" value="&lt;div&gt;x(EP)&lt;/div&gt;&lt;div&gt;x(IV)&lt;/div&gt;&lt;div&gt;x(FV)&lt;/div&gt;&lt;div&gt;x(&lt;font style=&quot;font-size: 10px&quot;&gt;Bal fig.&lt;/font&gt;)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-73">
+          <mxGeometry x="290" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-77" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the entry for the that &lt;u&gt;&lt;b&gt;amt&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;of shares exercised in the EPed&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-73">
+          <mxGeometry x="340" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="z3kOPlYkljQr6b6lWWEr-79" target="z3kOPlYkljQr6b6lWWEr-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-79" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="440" y="900" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-79">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-81" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;ESOP lapsed due non purchase in EPed&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-80">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-82" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;b&gt;ESOP O/s A/c DR.&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Employee compensation A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-80">
+          <mxGeometry x="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-83" value="&lt;div&gt;&lt;b&gt;x(IV)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x(IV)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-80">
+          <mxGeometry x="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-84" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the entry for the that &lt;u&gt;&lt;b&gt;lapsed amt&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;&lt;b&gt; &lt;/b&gt;&lt;/u&gt;is reversed&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-80">
+          <mxGeometry x="340" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-85" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="440" y="970" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-85">
+          <mxGeometry width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-87" value="Employee compensation tranfered to P/L" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-86">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-88" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;b&gt;P/L A/c DR.&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; To Employee compensation A/c&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-86">
+          <mxGeometry x="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-89" value="&lt;div&gt;&lt;b&gt;x&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;x&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-86">
+          <mxGeometry x="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-90" value="&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;the&lt;b&gt; &lt;/b&gt;total of employee compensation is &lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;transferred to profit and loss account&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-86">
+          <mxGeometry x="340" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
