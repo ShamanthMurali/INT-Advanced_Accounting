@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T23:08:19.164Z" agent="5.0 (X11)" etag="An4fg6zwVpUWD-Uud7NY" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-04T23:08:33.039Z" agent="5.0 (X11)" etag="ha45VN_9vsIk1Er0ZzgF" version="14.5.7" type="github">
   <diagram id="Fy2hQaFyj5nfAJLwqQMq" name="Page-1">
     <mxGraphModel dx="2619" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -312,7 +312,7 @@
           <mxGeometry x="520" width="80" height="52" as="geometry" />
         </mxCell>
         <mxCell id="z3kOPlYkljQr6b6lWWEr-122" value="&lt;div&gt;ns= number of shares &lt;br&gt;&lt;/div&gt;&lt;div&gt;n = total vesting period&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="760" width="170" height="80" as="geometry" />
+          <mxGeometry x="1070" y="813" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z3kOPlYkljQr6b6lWWEr-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-124" target="z3kOPlYkljQr6b6lWWEr-66">
           <mxGeometry relative="1" as="geometry" />
@@ -352,6 +352,9 @@
         </mxCell>
         <mxCell id="z3kOPlYkljQr6b6lWWEr-135" value="the entry is reversed with General reserve because the emp compensation is already transferred to P/L" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="z3kOPlYkljQr6b6lWWEr-131">
           <mxGeometry x="340" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z3kOPlYkljQr6b6lWWEr-110" target="z3kOPlYkljQr6b6lWWEr-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
