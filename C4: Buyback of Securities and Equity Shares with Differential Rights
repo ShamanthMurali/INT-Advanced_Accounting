@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T01:55:06.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.10" etag="ani4DlS4nYVqc_cvk3bS" type="github"><diagram id="VnD_nrGOibuU59RRkXsP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-12T02:08:17.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="QtTG2t04BHiNn39cHN9y" version="14.5.10" type="github">
+  <diagram id="VnD_nrGOibuU59RRkXsP" name="Page-1">
+    <mxGraphModel dx="713" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YMKDS70k6wsc6alGlrBr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-1" target="YMKDS70k6wsc6alGlrBr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-1" value="Buy back of&lt;br&gt;Equity shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-2" target="YMKDS70k6wsc6alGlrBr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-2" value="it is the process of buying own equity shares from market from its existing share holders for immediate cancelation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-4" target="YMKDS70k6wsc6alGlrBr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-4" value="&lt;b&gt;Advantages&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. to solve the problem of over capitalization&lt;br&gt;2. to increase EPS&lt;br&gt;3. to increase promoters share holding stake&lt;br&gt;4. to stop share price from falling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-6" target="YMKDS70k6wsc6alGlrBr-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-6" value="3 conditions need to fulfilled for a company to be able to perform a buy back as per section 68, companies act." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-11" target="YMKDS70k6wsc6alGlrBr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-11" value="General&lt;br&gt;conditions" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-12" target="YMKDS70k6wsc6alGlrBr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-12" value="Condition 1 : company cannot buy partly paid up shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-14" target="YMKDS70k6wsc6alGlrBr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-14" value="Condition 2 : company cannot use proceeds of fresh issue of equity shares for buy back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-16" value="Condition 3 : company cannot make a fresh issue of shares for cash for minimum next 12 months" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
