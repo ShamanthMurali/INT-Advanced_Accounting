@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T04:21:27.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="4xH4AYWV6nACNeqBBhh0" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T04:22:55.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pE7JoPk4rxMPgEekCjm8" version="14.5.10" type="github">
   <diagram id="VnD_nrGOibuU59RRkXsP" name="Page-1">
     <mxGraphModel dx="1890" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="YMKDS70k6wsc6alGlrBr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-36" target="YMKDS70k6wsc6alGlrBr-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YMKDS70k6wsc6alGlrBr-36" value="&lt;b&gt;&lt;u&gt;Equity&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;(+) Equity share capital&lt;br&gt;(+) Preference share capital&lt;br&gt;(+) Divisible profits&lt;br&gt;(+) Securities premium&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Do not add&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Revaluation reserve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YMKDS70k6wsc6alGlrBr-36" value="&lt;b&gt;&lt;u&gt;Equity&lt;/u&gt;&lt;/b&gt;&lt;br&gt;(Only these)&lt;br&gt;(+) Equity share capital&lt;br&gt;(+) Preference share capital&lt;br&gt;(+) Divisible profits&lt;br&gt;(+) Securities premium&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Do not add&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Revaluation reserve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="950" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YMKDS70k6wsc6alGlrBr-38" value="&lt;b&gt;&lt;u&gt;Divisible profits&lt;/u&gt;&lt;/b&gt;&lt;br&gt;(GRRDP)&lt;br&gt;(+) General reserve&lt;br&gt;(+) Reserve fund&lt;br&gt;(+) Revenue reserve&lt;br&gt;(+) Dividend equalization reserve&lt;br&gt;(+) Profit / Loss (in Cr. side of B/S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
