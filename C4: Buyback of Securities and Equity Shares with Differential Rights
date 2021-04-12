@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T06:28:37.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="m9ZhT0Q9D0lIoOjApOZH" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T06:34:34.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="JIhpaP0zHHsXpkzw804i" version="14.5.10" type="github">
   <diagram id="VnD_nrGOibuU59RRkXsP" name="Page-1">
     <mxGraphModel dx="1890" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -224,11 +224,11 @@
         </mxCell>
         <mxCell id="YMKDS70k6wsc6alGlrBr-75" value="How to solve" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="560" y="995" width="120" height="40" as="geometry">
-            <mxRectangle x="560" y="995" width="350" height="210" as="alternateBounds" />
+            <mxRectangle x="560" y="995" width="350" height="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YMKDS70k6wsc6alGlrBr-76" value="1. assume the number of SBB as x&lt;br&gt;2. if for example the debt=1800,equity=750, MP=30, FV=10&lt;br&gt;3. the the funds that can be applied for buy back is 30x&lt;br&gt;3. the funds that needs to be transfered to CRR will be 10x&lt;br&gt;4. using formula&lt;br&gt;1800k = 2 (750k - 30x - 10x)&lt;br&gt;1800k = 2 ( 750k - 40x)&lt;br&gt;1800k = 1500k - 80x&lt;br&gt;x = | 3.37k | shares&lt;br&gt;Therefore, 3.37k Equity shares can be Bougth Back." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-75">
-          <mxGeometry y="40" width="350" height="170" as="geometry" />
+        <mxCell id="YMKDS70k6wsc6alGlrBr-76" value="1. assume the number of SBB as x&lt;br&gt;2. if for example the debt=1800,equity=750, MP=30, FV=10&lt;br&gt;3. the the funds that can be applied for buy back is 30x&lt;br&gt;3. the funds that needs to be transfered to CRR will be 10x&lt;br&gt;4. using formula&lt;br&gt;1800k = 2 (750k - 30x - 10x)&lt;br&gt;1800k = 2 ( 750k - 40x)&lt;br&gt;1800k = 1500k - 80x&lt;br&gt;x = 3.37k&amp;nbsp; shares&lt;br&gt;Therefore, 3.37k Equity shares can be Bougth Back.&lt;br&gt;&lt;br&gt;if x comes out negetive the it not possible to do buy back." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-75">
+          <mxGeometry y="40" width="350" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
