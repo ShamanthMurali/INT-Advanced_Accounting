@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T04:05:49.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="PLZuhljvPXUP3jLKJmRp" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T04:15:18.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="tE-aMNdgeugMUrsuKtjZ" version="14.5.10" type="github">
   <diagram id="VnD_nrGOibuU59RRkXsP" name="Page-1">
-    <mxGraphModel dx="1563" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1890" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,6 +137,87 @@
             <mxPoint x="420" y="970" as="sourcePoint" />
             <mxPoint x="420" y="1080" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMKDS70k6wsc6alGlrBr-47" target="YMKDS70k6wsc6alGlrBr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-47" value="Journal entries" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-48" value="When shares are bought back" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1270" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-49" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1300" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-49">
+          <mxGeometry width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-51" value="Shares bought back A/c Dr.&lt;br&gt;to bank a/c" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-50">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-52" value="x(no. of shares * MP)&lt;br&gt;x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-50">
+          <mxGeometry x="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-54" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1370" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-55" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-54">
+          <mxGeometry width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-56" value="Equity share capital a/c Dr.&lt;br&gt;Securities premium a/c Dr.(loss)&lt;br&gt;to Shares bought back" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-55">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-57" value="&lt;b&gt;&lt;u&gt;Y&lt;/u&gt;&lt;/b&gt;(no. of shares * FV)&lt;br&gt;x(bal.fig)&lt;br&gt;x(no. of shares * MP)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-55">
+          <mxGeometry x="180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-58" value="when shares are transfered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1340" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-59" value="Creation of CRR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1560" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-60" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1590" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-60">
+          <mxGeometry width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-62" value="Securities premium a/c Dr.&lt;br&gt;to CRR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-61">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-63" value="&lt;b&gt;&lt;u&gt;Y+Z&lt;br&gt;Y+Z&lt;/u&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-61">
+          <mxGeometry x="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-64" value="if there is redemption of preference shares" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1420" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-65" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1450" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-66" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-65">
+          <mxGeometry width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-67" value="&lt;font style=&quot;font-size: 11px&quot;&gt;x% preference share capital a/c Dr.&lt;br&gt;to Preference share holder&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-66">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-68" value="&lt;u style=&quot;font-weight: bold&quot;&gt;Z&lt;/u&gt;&lt;br&gt;x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-66">
+          <mxGeometry x="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-69" value="Preference share holders paid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1490" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-70" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1520" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-70">
+          <mxGeometry width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-72" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Preference share holder a/c Dr.&lt;br&gt;to bank&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-71">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YMKDS70k6wsc6alGlrBr-73" value="x&lt;br&gt;x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="YMKDS70k6wsc6alGlrBr-71">
+          <mxGeometry x="180" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
