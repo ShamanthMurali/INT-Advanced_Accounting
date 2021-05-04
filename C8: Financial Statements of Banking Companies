@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T19:42:08.179Z" agent="5.0 (X11)" etag="xP6MrOuoUzvxpnECc1dF" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T19:44:08.856Z" agent="5.0 (X11)" etag="lEUb7n-LEYs9bjkMB4wQ" version="14.6.9" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
-    <mxGraphModel dx="2296" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -843,8 +843,20 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-323" value="Long term" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;comic=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-60" y="300" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-340" target="0u8JT3vaXqznKVBM9Z_j-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-340" value="&lt;div&gt;1. CAR implies ratio of capital find to risk&lt;/div&gt;&lt;div&gt;2. risk implies risk involved in the assets of the bank&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-342" target="0u8JT3vaXqznKVBM9Z_j-344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-342" value="&lt;div&gt;AS per RBI CAR should be,&lt;/div&gt;&lt;div&gt;&lt;b&gt;9%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-344" value="This implies the bank can take rs.100 for risk for Rs.9 of capital fund" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
