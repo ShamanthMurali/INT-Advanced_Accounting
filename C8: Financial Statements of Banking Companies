@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T17:00:54.192Z" agent="5.0 (X11)" etag="se535bLcXXn5muYOj7E_" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T17:06:08.692Z" agent="5.0 (X11)" etag="O9SrQTLUo0YXrQ4aktv5" version="14.6.9" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
     <mxGraphModel dx="2743" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,6 +46,12 @@
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-10" value="Acceptance, endorsements and other obligations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-840" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-11" target="0u8JT3vaXqznKVBM9Z_j-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-11" target="0u8JT3vaXqznKVBM9Z_j-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-11" value="Accounting for bills discounted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="160" width="120" height="40" as="geometry" />
@@ -103,6 +109,18 @@
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-30" value="&lt;div&gt;When the bill is &lt;u&gt;&lt;b&gt;DisHonored&lt;/b&gt;&lt;/u&gt; by the paying bank&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reverse the entry&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-960" y="301" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-34" target="0u8JT3vaXqznKVBM9Z_j-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-34" value="Discounted a bill whos maturity falls with in FY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-35" value="Discounted a bill whos maturity falls Across 2 FY&#39;s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-38" value="&lt;div&gt;Bill purchased and discounted &lt;b&gt;DR&lt;/b&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp; XXX&lt;br&gt;&lt;/div&gt;&lt;div&gt;to Discount received&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; XXX&lt;br&gt;&lt;/div&gt;&lt;div&gt;to Bank&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; XXX&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="320" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
