@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T19:01:56.890Z" agent="5.0 (X11)" etag="5nJXzdLX672QSy62pPdl" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T19:03:29.975Z" agent="5.0 (X11)" etag="5PiJdbuzHW9gXwn3V6R3" version="14.6.9" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
-    <mxGraphModel dx="2743" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2296" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,13 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-13" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Classification of advances and Provision for doubtful debts " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-520" y="160" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-14" value="CRR and SLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-14" target="0u8JT3vaXqznKVBM9Z_j-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-14" target="0u8JT3vaXqznKVBM9Z_j-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-14" value="CRR and SLR" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-17" target="0u8JT3vaXqznKVBM9Z_j-18" visible="0">
@@ -543,6 +549,12 @@
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-211" value="zzz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-209">
           <mxGeometry x="180" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-218" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-219" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
