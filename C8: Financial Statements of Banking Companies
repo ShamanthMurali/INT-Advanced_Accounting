@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T19:03:29.975Z" agent="5.0 (X11)" etag="5PiJdbuzHW9gXwn3V6R3" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T19:06:41.159Z" agent="5.0 (X11)" etag="7XwZt2Xxh9Mv3ndnhzJx" version="14.6.9" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
     <mxGraphModel dx="2296" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -550,11 +550,17 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-211" value="zzz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-209">
           <mxGeometry x="180" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-218" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-218" target="0u8JT3vaXqznKVBM9Z_j-222">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-219" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-218" value="CRR" style="rounded=1;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-219" value="SLR" style="rounded=1;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-222" value="&lt;div&gt;There are three type of deposits:&lt;/div&gt;&lt;div&gt;1. Savings deposit&lt;/div&gt;&lt;div&gt;2. Current deposit (Demand deposit)&lt;/div&gt;&lt;div&gt;3. Fixed deposit (Term deposit) (RD)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="300" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
