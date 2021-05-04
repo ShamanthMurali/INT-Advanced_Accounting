@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T19:40:56.265Z" agent="5.0 (X11)" etag="4T6mN82s685MF3Sf_YpN" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T19:42:08.179Z" agent="5.0 (X11)" etag="xP6MrOuoUzvxpnECc1dF" version="14.6.9" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
     <mxGraphModel dx="2296" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-2" value="Special Issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-3" target="0u8JT3vaXqznKVBM9Z_j-340">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-3" value="Capital Adequacy Ratio (CAR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
@@ -839,6 +842,9 @@
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-323" value="Long term" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;comic=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-60" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-340" value="&lt;div&gt;1. CAR implies ratio of capital find to risk&lt;/div&gt;&lt;div&gt;2. risk implies risk involved in the assets of the bank&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
