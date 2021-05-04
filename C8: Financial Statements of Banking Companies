@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T16:47:56.122Z" agent="5.0 (X11)" version="14.6.9" etag="4gkpG6_bhwqyo0kjJTGH" type="github"><diagram id="P3dqakVOfsY5KBBx82-5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-04T17:00:54.192Z" agent="5.0 (X11)" etag="se535bLcXXn5muYOj7E_" version="14.6.9" type="github">
+  <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
+    <mxGraphModel dx="2743" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-1" value="Banking companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-2" value="Special Issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-3" value="Capital Adequacy Ratio (CAR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-4" value="Financial statements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-7" target="0u8JT3vaXqznKVBM9Z_j-17" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1100" y="220" />
+              <mxPoint x="-1300" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-7" target="0u8JT3vaXqznKVBM9Z_j-23" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-7" target="0u8JT3vaXqznKVBM9Z_j-29" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1100" y="220" />
+              <mxPoint x="-900" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-7" value="Accounting for cheques" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-1160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-8" value="ECGC / DICGC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-9" value="Investment valuation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-10" value="Acceptance, endorsements and other obligations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-11" value="Accounting for bills discounted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-12" value="income recognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-13" value="Provision for doubtful debts " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-14" value="CRR and SLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-15" value="Classification of advances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-17" target="0u8JT3vaXqznKVBM9Z_j-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-17" value="When the bill is collected" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1360" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-18" target="0u8JT3vaXqznKVBM9Z_j-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-18" value="When the bill is &lt;u&gt;&lt;b&gt;received&lt;/b&gt;&lt;/u&gt; from the customer and the bank has to send it for collection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1360" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-20" value="&lt;div&gt;Bills sent for collection(&lt;b&gt;asset&lt;/b&gt;) A/c Dr.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;To Bills sent for collection(&lt;b&gt;liability&lt;/b&gt;) A/c&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; xxx&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1425" y="400" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-23" target="0u8JT3vaXqznKVBM9Z_j-24" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-23" value="When the bill is Honored" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1160" y="241" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-24" target="0u8JT3vaXqznKVBM9Z_j-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-24" value="&lt;div&gt;When the bill is &lt;u&gt;&lt;b&gt;Honored&lt;/b&gt;&lt;/u&gt; by the paying bank&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reverse the entry&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1160" y="301" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-26" value="&lt;div&gt;Bills sent for collection(&lt;b&gt;Liability&lt;/b&gt;) A/c Dr. xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;To Bills sent for collection(&lt;b&gt;Asset&lt;/b&gt;) A/c&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; xxx&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-1120" y="421" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" source="0u8JT3vaXqznKVBM9Z_j-29" target="0u8JT3vaXqznKVBM9Z_j-30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-29" value="When the bill is Honored" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-960" y="241" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-30" target="0u8JT3vaXqznKVBM9Z_j-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-30" value="&lt;div&gt;When the bill is &lt;u&gt;&lt;b&gt;DisHonored&lt;/b&gt;&lt;/u&gt; by the paying bank&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Reverse the entry&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-960" y="301" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
