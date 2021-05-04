@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T18:57:53.611Z" agent="5.0 (X11)" etag="nqYppsTmAxuSkfbal8kG" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T19:01:45.472Z" agent="5.0 (X11)" etag="yvcHgayMPvIO4zkJm8Xs" version="14.6.9" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
-    <mxGraphModel dx="2398" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2543" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,10 +38,10 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-7" value="Accounting for cheques" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-1160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-8" target="0u8JT3vaXqznKVBM9Z_j-194">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-8" target="0u8JT3vaXqznKVBM9Z_j-194" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-8" value="ECGC / DICGC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-8" value="ECGC / DICGC" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-320" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-9" value="Investment valuation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -485,38 +485,64 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-189" value="0.4%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;treeFolding=0;noLabel=0;allowArrows=1;portConstraintRotation=0;snapToPoint=0;fixDash=0;expand=1;part=0;metaEdit=0;backgroundOutline=0;movable=1;movableLabel=0;resizeWidth=0;resizeHeight=0;rotatable=1;cloneable=1;deletable=1;treeMoving=0;pointerEvents=1;comic=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-187">
           <mxGeometry x="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-194" value="&lt;div&gt;ECGC : Export credit guarantee Corporation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICGC : Deposit Insurance Credit Guarantee Corporation&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-194" target="0u8JT3vaXqznKVBM9Z_j-215" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-194" value="&lt;div&gt;ECGC : Export credit guarantee Corporation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICGC : Deposit Insurance Credit Guarantee Corporation&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;pointerEvents=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-400" y="220" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-196" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="320" width="240" height="120" as="geometry" />
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-215" value="" style="swimlane;startSize=0;comic=0;pointerEvents=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-380" y="320" width="240" height="230.00000000000023" as="geometry">
+            <mxRectangle x="-40" y="330" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-196" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-215">
+          <mxGeometry width="240" height="230.00000000000023" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-197" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-196">
           <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-198" value="Total loan O/S" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-197">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-198" value="Total loan O/S" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-197">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-199" value="XX" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-197">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-200" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-196">
-          <mxGeometry y="40" width="240" height="40" as="geometry" />
+          <mxGeometry y="40" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-201" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-200">
-          <mxGeometry width="180" height="40" as="geometry" />
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-201" value="&lt;div&gt;(-) Secured Portion&lt;/div&gt;&lt;div&gt;(If realizable value is available use that)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-200">
+          <mxGeometry width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-202" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-200">
-          <mxGeometry x="180" width="60" height="40" as="geometry" />
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-202" value="(xx)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-200">
+          <mxGeometry x="180" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-203" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-196">
-          <mxGeometry y="80" width="240" height="40" as="geometry" />
+          <mxGeometry y="90" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-204" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-203">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-204" value="Balance" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-203">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-205" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-203">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-205" value="YY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-203">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-206" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-196">
+          <mxGeometry y="130" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-207" value="&lt;div&gt;(-) ECGC / DICGC&lt;/div&gt;&lt;div&gt;(x% or maximum given on balance(YY))&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-206">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-208" value="yy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-206">
+          <mxGeometry x="180" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-209" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-196">
+          <mxGeometry y="180" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-210" value="Unsecured Part" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-209">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-211" value="zzz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="0u8JT3vaXqznKVBM9Z_j-209">
+          <mxGeometry x="180" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
