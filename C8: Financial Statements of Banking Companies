@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T00:09:04.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="jWw6QWzxyk3JzJGfaP66" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T01:14:14.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BycbY2vwWmtuKc-xaNqc" version="14.6.6" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
-    <mxGraphModel dx="2808" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2464" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,10 +56,10 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-9" value="Investment valuation" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-10" target="0u8JT3vaXqznKVBM9Z_j-463" edge="1">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-10" target="0u8JT3vaXqznKVBM9Z_j-463" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-10" value="Acceptance, endorsements and other obligations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-10" value="Acceptance, endorsements and other obligations" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-840" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-11" target="0u8JT3vaXqznKVBM9Z_j-34" edge="1" visible="0">
@@ -1210,11 +1210,67 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-453" value="100%" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="0u8JT3vaXqznKVBM9Z_j-451" vertex="1">
           <mxGeometry x="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0u8JT3vaXqznKVBM9Z_j-463" value="When bank accepts liability on behalf of clients" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;pointerEvents=1;" parent="1" vertex="1">
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-463" target="S_ewvzX7jj_DSDNWtz8q-4" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0u8JT3vaXqznKVBM9Z_j-463" value="When bank accepts liability on behalf of clients" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-960" y="240" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S_ewvzX7jj_DSDNWtz8q-1" value="NO need to make provision for this part" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="-100" y="445" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-4" value="Acceptance, endorsement and other obligation account" style="swimlane;startSize=30;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-970" y="280" width="380" height="250" as="geometry">
+            <mxRectangle x="-670" y="330" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-6" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-4">
+          <mxGeometry y="30" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-6">
+          <mxGeometry width="380" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-8" value="To liabilities for acceptances&lt;br&gt;(when bank honor on behalf of the client or pay on behalf)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-7">
+          <mxGeometry width="140" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-7">
+          <mxGeometry x="140" width="50" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-10" value="B/d" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-7">
+          <mxGeometry x="190" width="140" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-7">
+          <mxGeometry x="330" width="50" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-6">
+          <mxGeometry y="77" width="380" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-13" value="&lt;span&gt;To liabilities for acceptances&lt;/span&gt;&lt;br&gt;&lt;span&gt;(when clients pay on their own)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-12">
+          <mxGeometry width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-12">
+          <mxGeometry x="140" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-15" value="By consitutes of liabilities for&lt;br&gt;a&lt;br&gt;b&lt;br&gt;c&lt;br&gt;(When lib is undertaken by bank)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-12">
+          <mxGeometry x="190" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-12">
+          <mxGeometry x="330" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-6">
+          <mxGeometry y="182" width="380" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-18" value="C/D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-17">
+          <mxGeometry width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-17">
+          <mxGeometry x="140" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-17">
+          <mxGeometry x="190" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="S_ewvzX7jj_DSDNWtz8q-17">
+          <mxGeometry x="330" width="50" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
