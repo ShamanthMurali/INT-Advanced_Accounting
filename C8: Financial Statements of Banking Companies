@@ -1,23 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T01:14:14.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BycbY2vwWmtuKc-xaNqc" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T01:15:35.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qEx2SlWqy45Cv_R4EreE" version="14.6.6" type="github">
   <diagram id="P3dqakVOfsY5KBBx82-5" name="Page-1">
-    <mxGraphModel dx="2464" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4866" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-1" target="0u8JT3vaXqznKVBM9Z_j-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-1" target="0u8JT3vaXqznKVBM9Z_j-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-1" value="Banking companies" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_ewvzX7jj_DSDNWtz8q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0u8JT3vaXqznKVBM9Z_j-2" target="0u8JT3vaXqznKVBM9Z_j-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-2" value="Special Issues" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-590" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-3" target="0u8JT3vaXqznKVBM9Z_j-340" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-3" value="Capital Adequacy Ratio (CAR)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-4" value="Financial statements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-7" target="0u8JT3vaXqznKVBM9Z_j-17" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
@@ -857,7 +887,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-340" value="&lt;div&gt;1. CAR implies ratio of capital find to risk&lt;/div&gt;&lt;div&gt;2. risk implies risk involved in the assets of the bank&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="280" y="140" width="280" height="60" as="geometry" />
+          <mxGeometry x="160" y="140" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-342" target="0u8JT3vaXqznKVBM9Z_j-344" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -868,35 +898,35 @@
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-342" target="0u8JT3vaXqznKVBM9Z_j-365" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="280" />
-              <mxPoint x="100" y="280" />
+              <mxPoint x="300" y="280" />
+              <mxPoint x="-20" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-417" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-342" target="0u8JT3vaXqznKVBM9Z_j-393" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="280" />
-              <mxPoint x="820" y="280" />
+              <mxPoint x="300" y="280" />
+              <mxPoint x="700" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-342" value="&lt;div&gt;AS per RBI CAR should be,&lt;/div&gt;&lt;div&gt;&lt;b&gt;9%&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="340" y="220" width="160" height="40" as="geometry" />
+          <mxGeometry x="220" y="220" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-344" value="This implies the bank can take rs.100 for risk for Rs.9 of capital fund" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="160" y="220" width="150" height="40" as="geometry" />
+          <mxGeometry x="40" y="220" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-347" target="0u8JT3vaXqznKVBM9Z_j-390" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="560" />
-              <mxPoint x="420" y="560" />
+              <mxPoint x="-20" y="560" />
+              <mxPoint x="300" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-347" value="" style="swimlane;startSize=0;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-40" y="340" width="280" height="200" as="geometry">
+          <mxGeometry x="-160" y="340" width="280" height="200" as="geometry">
             <mxRectangle x="280" y="400" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -952,18 +982,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-365" value="Tier 1 Capital" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="40" y="300" width="120" height="20" as="geometry" />
+          <mxGeometry x="-80" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-368" target="0u8JT3vaXqznKVBM9Z_j-390" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="570" />
-              <mxPoint x="420" y="570" />
+              <mxPoint x="300" y="570" />
+              <mxPoint x="300" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-368" value="" style="swimlane;startSize=0;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="280" y="340" width="280" height="120" as="geometry">
+          <mxGeometry x="160" y="340" width="280" height="120" as="geometry">
             <mxRectangle x="280" y="400" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1001,13 +1031,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-386" value="Tier 2 Capital" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="360" y="300" width="120" height="20" as="geometry" />
+          <mxGeometry x="240" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-390" target="0u8JT3vaXqznKVBM9Z_j-418" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-390" value="Capital Funds = Tier 1 +Tier 2" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="580" width="200" height="40" as="geometry" />
+          <mxGeometry x="200" y="580" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-393" target="0u8JT3vaXqznKVBM9Z_j-395" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1016,18 +1046,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-393" value="Total Risk" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="760" y="300" width="120" height="20" as="geometry" />
+          <mxGeometry x="640" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-414" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0u8JT3vaXqznKVBM9Z_j-395" target="0u8JT3vaXqznKVBM9Z_j-390" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="560" />
-              <mxPoint x="420" y="560" />
+              <mxPoint x="700" y="560" />
+              <mxPoint x="300" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-395" value="" style="swimlane;startSize=0;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="600" y="340" width="440" height="120" as="geometry">
+          <mxGeometry x="480" y="340" width="440" height="120" as="geometry">
             <mxRectangle x="280" y="400" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1080,10 +1110,10 @@
           <mxGeometry x="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-418" value="`CAR = \text{Capital Funds}/\text{Risk weighted assets}*100`" style="rounded=0;whiteSpace=wrap;html=1;comic=0;pointerEvents=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="285" y="640" width="270" height="80" as="geometry" />
+          <mxGeometry x="165" y="640" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0u8JT3vaXqznKVBM9Z_j-420" value="Rates" style="swimlane;startSize=40;comic=0;pointerEvents=1;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="910" y="290" width="120" height="40" as="geometry">
+          <mxGeometry x="790" y="290" width="120" height="40" as="geometry">
             <mxRectangle x="910" y="290" width="250" height="560" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
