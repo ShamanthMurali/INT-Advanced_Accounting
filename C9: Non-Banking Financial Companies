@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T17:38:30.452Z" agent="5.0 (X11)" etag="tnjs6R2DN_XdKFfJrXI9" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T17:40:48.467Z" agent="5.0 (X11)" etag="RZe3zIThEwe6z_EvTStZ" version="14.6.12" type="github">
   <diagram id="mNouHRLulhN0I1v23BkD" name="Page-1">
-    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,20 @@
         <mxCell id="KWNu9VkJzd4rHo4vONaw-13" value="Can accept deposits" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KWNu9VkJzd4rHo4vONaw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KWNu9VkJzd4rHo4vONaw-14" target="KWNu9VkJzd4rHo4vONaw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KWNu9VkJzd4rHo4vONaw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KWNu9VkJzd4rHo4vONaw-14" target="KWNu9VkJzd4rHo4vONaw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KWNu9VkJzd4rHo4vONaw-14" value="cannot accept deposits" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KWNu9VkJzd4rHo4vONaw-25" value="&lt;div&gt;systematically important&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Assets &amp;gt;= 500 crores" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KWNu9VkJzd4rHo4vONaw-26" value="&lt;div&gt;Non systematically important&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assets &amp;lt; 500 crores&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
