@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T16:06:02.981Z" agent="5.0 (X11)" etag="BLcIENm6o0SXOzkZiLNy" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T16:10:35.829Z" agent="5.0 (X11)" etag="dgtO2bB5g5_LW-q0lNnU" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="712" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,8 +68,84 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-14" value="B ltd is not running well and has lost its name hence it made a new company called A ltd which t/o B ltd after it is formed " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-18" target="2xj69ejIfLscFSmYHfCP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-18" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Need&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Expansion&lt;/div&gt;&lt;div&gt;2. synergy&lt;/div&gt;&lt;div&gt; 3. cost reduction&lt;/div&gt;&lt;div&gt;4. diversity&lt;/div&gt;&lt;div&gt;5. avoid gestation&lt;/div&gt;&lt;div&gt;6. complete ecosystem&lt;/div&gt;&lt;div&gt;7. tax planning&lt;/div&gt;&lt;div&gt;8. etc...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-22" target="2xj69ejIfLscFSmYHfCP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-22" target="2xj69ejIfLscFSmYHfCP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-22" value="Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-24" target="2xj69ejIfLscFSmYHfCP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-24" value="Abroad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-25" target="2xj69ejIfLscFSmYHfCP-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-25" target="2xj69ejIfLscFSmYHfCP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-25" value="India" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-26" value="&lt;div&gt;Big cos&lt;/div&gt;&lt;div&gt;(IndAS - 103)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-27" target="2xj69ejIfLscFSmYHfCP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-27" value="&lt;div&gt;Small cos&lt;/div&gt;&lt;div&gt;(AS 14)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-28" value="Abroad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-34" target="2xj69ejIfLscFSmYHfCP-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="800" />
+              <mxPoint x="260" y="800" />
+              <mxPoint x="260" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-34" value="Parties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="840" />
+              <mxPoint x="660" y="920" />
+              <mxPoint x="460" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-36" value="Big company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-37" target="2xj69ejIfLscFSmYHfCP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-37" value="Small company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-42" value="&lt;div&gt;aka&lt;/div&gt;&lt;div&gt;selling/vendor cos&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-43" value="&lt;div&gt;aka&lt;/div&gt;&lt;div&gt;purchasing cos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="860" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
