@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T18:30:20.071Z" agent="5.0 (X11)" etag="MTMMHT99UlJY1LTvRqNz" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T18:31:37.625Z" agent="5.0 (X11)" etag="-DeywIAFwRsOS7PVLeBj" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="2738" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -495,7 +495,10 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-205" value="No drama" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="2320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-206" target="2xj69ejIfLscFSmYHfCP-214">
+        <mxCell id="2xj69ejIfLscFSmYHfCP-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-218" target="2xj69ejIfLscFSmYHfCP-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-206" target="2xj69ejIfLscFSmYHfCP-218">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-206" value="If big co is a new co" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
@@ -527,7 +530,10 @@
           <mxGeometry x="-570" y="2390" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-214" value="NATO = PC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="2390" width="120" height="40" as="geometry" />
+          <mxGeometry x="-370" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-218" value="IV = IP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="2380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
