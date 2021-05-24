@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T18:03:08.182Z" agent="5.0 (X11)" etag="oBNeMA6TXwPqChkhiQZa" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T18:07:57.072Z" agent="5.0 (X11)" etag="AYkJWe6gyxA4HX-WAz3E" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2559" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,13 +435,24 @@
           <mxGeometry x="200" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-183" value="&lt;div&gt;NOES&lt;/div&gt;&lt;div&gt;Number of equity shares&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NOES = total NOES of small co. - dissenting share holders&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1880" width="280" height="80" as="geometry" />
+          <mxGeometry x="-920" y="1880" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-184" value="&lt;div&gt;`\text{Swap Ratio} = \text{Share Value of small co}/\text{Share Value of big co}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="2190" width="330" height="80" as="geometry" />
+          <mxGeometry x="-560" y="2100" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-185" value="&lt;div&gt;&lt;b&gt;Issue price&lt;/b&gt; = MP of equity shares of big co.&lt;br&gt;&lt;/div&gt;&lt;div&gt;if MP is not available&lt;/div&gt;&lt;div&gt;&lt;b&gt;Issue price&lt;/b&gt; = FV of equity share of big co&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1980" width="280" height="60" as="geometry" />
+        <mxCell id="2xj69ejIfLscFSmYHfCP-187" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1900" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-188" value="&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1990" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-190" value="" style="swimlane;startSize=40;sketch=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="410" y="2052.5" width="20" height="20" as="geometry">
+            <mxRectangle x="410" y="2052.5" width="280" height="97.5" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-185" value="&lt;div&gt;&lt;b&gt;Issue price&lt;/b&gt; = MP of equity shares of big co.&lt;br&gt;&lt;/div&gt;&lt;div&gt;if MP is not available&lt;/div&gt;&lt;div&gt;&lt;b&gt;Issue price&lt;/b&gt; = FV of equity share of big co&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="2xj69ejIfLscFSmYHfCP-190">
+          <mxGeometry y="37.5" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
