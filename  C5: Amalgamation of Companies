@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T18:27:03.917Z" agent="5.0 (X11)" etag="66xIrdNY5xdoegFk49Ua" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T18:30:20.071Z" agent="5.0 (X11)" etag="MTMMHT99UlJY1LTvRqNz" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="2559" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2738" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,14 +478,25 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-199" value="If intrinsic value is &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; given in the question " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="2240" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as per PC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="2380" width="320" height="90" as="geometry" />
+        <mxCell id="2xj69ejIfLscFSmYHfCP-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-202" target="2xj69ejIfLscFSmYHfCP-184">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-960" y="2430" />
+              <mxPoint x="-960" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as per PC&lt;/div&gt;&lt;div&gt;** IV = Share value&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="2380" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-205" target="2xj69ejIfLscFSmYHfCP-202">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-205" value="No drama" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="2320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-206" target="2xj69ejIfLscFSmYHfCP-214">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-206" value="If big co is a new co" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="2320" width="120" height="40" as="geometry" />
@@ -513,7 +524,10 @@
           <mxGeometry y="40" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-212" value="IV = Nominal value of equity shares of big co" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="2400" width="160" height="40" as="geometry" />
+          <mxGeometry x="-570" y="2390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-214" value="NATO = PC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="2390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
