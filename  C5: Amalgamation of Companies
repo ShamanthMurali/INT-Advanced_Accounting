@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T16:40:00.664Z" agent="5.0 (X11)" etag="Cky-qYnlHweSyknfqou_" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T16:41:57.320Z" agent="5.0 (X11)" etag="Gr-_S_z_P-aStcjLVYJt" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="859" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-56" value="&lt;div&gt;IF&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. big co should continue the business of small co&lt;/div&gt;&lt;div&gt;2. big co should t/o all assets and liabilities&lt;/div&gt;&lt;div&gt;3. big co should take over reserves and surplus also&lt;/div&gt;&lt;div&gt;4. &amp;gt; 90% of equity share holders of small co should agree to be the share holders of the big company&lt;/div&gt;&lt;div&gt;5. Purchase consideration to equity share holders must be satisfied in terms of Equity share only except cash that may be paid for fractional shares. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1210" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-62" target="2xj69ejIfLscFSmYHfCP-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-62" value="Step 1: assumptions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1480" width="120" height="40" as="geometry" />
