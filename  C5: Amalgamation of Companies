@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T16:10:35.829Z" agent="5.0 (X11)" etag="dgtO2bB5g5_LW-q0lNnU" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T16:22:24.423Z" agent="5.0 (X11)" etag="-oR5hxjhaBKK08we-6_u" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="712" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-34" value="Parties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="740" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-36">
+        <mxCell id="2xj69ejIfLscFSmYHfCP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-36" target="2xj69ejIfLscFSmYHfCP-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="960" as="targetPoint" />
             <Array as="points">
@@ -146,6 +146,33 @@
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-43" value="&lt;div&gt;aka&lt;/div&gt;&lt;div&gt;purchasing cos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-45" target="2xj69ejIfLscFSmYHfCP-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-45" target="2xj69ejIfLscFSmYHfCP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-45" value="Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-46" target="2xj69ejIfLscFSmYHfCP-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-46" value="Purchase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-47" target="2xj69ejIfLscFSmYHfCP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-47" value="Merger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-50" value="&lt;div&gt;Big co. t/o biz. of small co.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assets and liab t/o&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;share holders of small co is paid off&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1100" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-51" value="&lt;div&gt;Big co. t/o owner ship of small co.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assets, liab, Share holder funds t/o&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;share holder of small co. are given owner ship in big company&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1100" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
