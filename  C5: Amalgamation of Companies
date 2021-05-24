@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T15:55:34.877Z" agent="5.0 (X11)" version="14.7.0" etag="JUg149cIKUHN76ea5550" type="github"><diagram id="gT-2nWlLlnwGuaoVWljc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-24T16:03:37.513Z" agent="5.0 (X11)" etag="UXdqf0CfQ_u9yD72m-w8" version="14.7.0" type="github">
+  <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
+    <mxGraphModel dx="1466" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2xj69ejIfLscFSmYHfCP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-1" target="2xj69ejIfLscFSmYHfCP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-1" value="Amalgamation of companies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-2" target="2xj69ejIfLscFSmYHfCP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-2" target="2xj69ejIfLscFSmYHfCP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-2" target="2xj69ejIfLscFSmYHfCP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-2" value="Types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-4" target="2xj69ejIfLscFSmYHfCP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-4" value="Amalgamation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-5" target="2xj69ejIfLscFSmYHfCP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-5" value="Absorption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-6" target="2xj69ejIfLscFSmYHfCP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-6" value="External reconstruction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-11" value="A ltd + B ltd = AB ltd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-13" value="A ltd t/o by B ltd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xj69ejIfLscFSmYHfCP-14" value="B ltd is not running well and has lost its name hence it made a new company called A ltd which t/o B ltd after it is formed " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="160" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
