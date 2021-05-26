@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T15:59:59.269Z" agent="5.0 (X11)" etag="WqWFQ9UXZxCsHyP61ZlL" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T16:30:24.537Z" agent="5.0 (X11)" etag="Iq_6B3hzwTPLKKXeQyEG" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="2948" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2413" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,10 +560,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-3" value="Reserves and surplus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1960" width="120" height="40" as="geometry" />
+          <mxGeometry x="1200" y="3310" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-4" value="Dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="1140" width="120" height="40" as="geometry" />
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-4" target="lthJJ6roxLrwCFIqNwGu-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-4" value="Debentures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-5" value="realisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2140" y="1140" width="120" height="40" as="geometry" />
@@ -647,40 +650,192 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-37" value="It includes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="940" y="3390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-38" target="lthJJ6roxLrwCFIqNwGu-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-38" value="it does not include" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="1220" y="3390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-39" target="lthJJ6roxLrwCFIqNwGu-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-39" value="&lt;div&gt;1. Divisible profits&lt;/div&gt;&lt;div&gt;2. retained earnings&lt;/div&gt;&lt;div&gt;3. capital reserve&lt;/div&gt;&lt;div&gt;4. profits prior to Inc&lt;/div&gt;&lt;div&gt;5. revaluation reserve&lt;/div&gt;&lt;div&gt;6. securities premium&lt;/div&gt;&lt;div&gt;7. Capital redemption reserve (CRR)&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt; debenture redemption &lt;em&gt;reserve&lt;/em&gt; (&lt;em&gt;DRR&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;9. WCF(Reserve portion)[see. special cases]&lt;/div&gt;&lt;div&gt;10 investment fluction reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="2100" width="240" height="170" as="geometry" />
+          <mxGeometry x="880" y="3450" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-40" target="lthJJ6roxLrwCFIqNwGu-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-40" value="&lt;div&gt;1. provident fund&lt;/div&gt;&lt;div&gt;2. pension fund&lt;/div&gt;&lt;div&gt;3. gratuity fund&lt;/div&gt;&lt;div&gt;4. retirement fund&lt;/div&gt;&lt;div&gt;5. WCF(liability portion))[see. special cases]&lt;/div&gt;&lt;div&gt;6. Workmen profit sharing fund&lt;/div&gt;&lt;div&gt;7. staff welfare fund&lt;/div&gt;&lt;div&gt;8. insurance policy reserve/fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="2100" width="240" height="170" as="geometry" />
+          <mxGeometry x="1160" y="3450" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-45" target="lthJJ6roxLrwCFIqNwGu-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-45" value="it does not include" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="1500" y="3390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-46" value="&lt;div&gt;1. investment allowance reserve&lt;/div&gt;&lt;div&gt;2. development rebate reserve&lt;/div&gt;&lt;div&gt;3. Foreign project&lt;/div&gt;&lt;div&gt;4. export profit reserve&lt;/div&gt;&lt;div&gt;5. site restoration reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="2100" width="240" height="170" as="geometry" />
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-46" target="lthJJ6roxLrwCFIqNwGu-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-46" value="&lt;div&gt;1. investment allowance reserve&lt;/div&gt;&lt;div&gt;2. development rebate reserve&lt;/div&gt;&lt;div&gt;3. Foreign project&lt;/div&gt;&lt;div&gt;4. export profit reserve&lt;/div&gt;&lt;div&gt;5. site restoration reserve&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; these reserves are created for IT purposes&lt;/div&gt;&lt;div&gt;&amp;gt; for a specified period&lt;/div&gt;&lt;div&gt;&amp;gt;if small co is t/o before such specified period big co will continue to maintain such reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="3450" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-49" value="&lt;div&gt;1. It &lt;u&gt;&lt;b&gt;will not come in NATO&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. it will be &lt;u&gt;&lt;b&gt;transferred to Equity share holders a/c&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="2290" width="200" height="70" as="geometry" />
+          <mxGeometry x="900" y="3640" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-51" value="&lt;div&gt;1. It &lt;u&gt;&lt;b&gt;will come in NATO&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. it will be &lt;u&gt;&lt;b&gt;transferred to Realization a/c&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="2290" width="200" height="70" as="geometry" />
+          <mxGeometry x="1180" y="3640" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-53" target="lthJJ6roxLrwCFIqNwGu-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-53" target="lthJJ6roxLrwCFIqNwGu-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-53" value="&lt;div&gt;1. It &lt;u&gt;&lt;b&gt;will not come in NATO&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="3640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-55" target="lthJJ6roxLrwCFIqNwGu-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-55" value="In the books of small company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-56" target="lthJJ6roxLrwCFIqNwGu-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-56" value="In the books of big company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="3730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-59" value="transfer to realization a/c" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="3790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="4260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-61" value="If specified period is not over yet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="3790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-66" value="Learn from example" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="2000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-69" target="lthJJ6roxLrwCFIqNwGu-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-69" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2060" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-70" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-69">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-71" value="Liabilities" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-70">
+          <mxGeometry width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-78" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-70">
+          <mxGeometry x="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-72" value="Assets" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-70">
+          <mxGeometry x="120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-80" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-70">
+          <mxGeometry x="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-69">
+          <mxGeometry y="20" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-74" value="15% deb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-73">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-79" value="50k" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-73">
+          <mxGeometry x="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-75" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-73">
+          <mxGeometry x="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-73">
+          <mxGeometry x="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-76" target="lthJJ6roxLrwCFIqNwGu-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-76" value="Case 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-83" target="lthJJ6roxLrwCFIqNwGu-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-83" value="&lt;div&gt;1. Debentures of small company are settled at a premium of 20%&lt;/div&gt;&lt;div&gt;2. The debenture holders are settled by issuing 12% deb at 96&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="880" y="2220" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-84" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="820" y="2000" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-85" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-84">
+          <mxGeometry width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-86" value="Equity share" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-85">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-87" value="Rs.10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-85">
+          <mxGeometry x="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-84">
+          <mxGeometry y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-89" value="Preference share" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-88">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-90" value="Rs.100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-88">
+          <mxGeometry x="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-91" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-84">
+          <mxGeometry y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-92" value="debentures" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-91">
+          <mxGeometry width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-93" value="Rs.100" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="lthJJ6roxLrwCFIqNwGu-91">
+          <mxGeometry x="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-94" value="&lt;div&gt;When ever the question is silent about the face value of shares &lt;br&gt;&lt;/div&gt;&lt;div&gt;assume&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1950" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-95" target="lthJJ6roxLrwCFIqNwGu-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-95" value="&lt;div&gt;1. debenture of small company settled at premium of 20%&lt;/div&gt;&lt;div&gt;50K + 20% = &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2280" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-97" target="lthJJ6roxLrwCFIqNwGu-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-97" target="lthJJ6roxLrwCFIqNwGu-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-97" value="60,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-99" value="In the books of small co" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-100" target="lthJJ6roxLrwCFIqNwGu-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-100" value="&lt;div&gt;In the books of Big&lt;/div&gt;&lt;div&gt; co&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-104" value="deb in small co was at 50k but they are settled for 60k that means it is 10k loss for small co" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-105" value="t/f to NATO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-106" value="&lt;div&gt;2. the debenture holder have been alloted 12% deb at a discount of rs.4 (100(assumed)-96)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the big co t/o the assets at 60k&lt;/div&gt;&lt;div&gt;so,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2480" width="320" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
