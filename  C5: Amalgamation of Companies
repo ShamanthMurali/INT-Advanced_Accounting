@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T16:30:24.537Z" agent="5.0 (X11)" etag="Iq_6B3hzwTPLKKXeQyEG" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T16:32:37.886Z" agent="5.0 (X11)" etag="9rMnUimfrd0LwLTnGBjj" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="2413" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -834,8 +834,35 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-105" value="t/f to NATO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-106" value="&lt;div&gt;2. the debenture holder have been alloted 12% deb at a discount of rs.4 (100(assumed)-96)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the big co t/o the assets at 60k&lt;/div&gt;&lt;div&gt;so,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2480" width="320" height="200" as="geometry" />
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-106" value="&lt;div&gt;2. the debenture holder have been alloted 12% deb at a discount of rs.4 (100(assumed)-96)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the big co t/o the assets at 60k&lt;/div&gt;&lt;div&gt;so,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2480" width="320" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-108" value="FV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="2570" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-109" value="Amt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="2570" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-110" value="60k" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="2600" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-111" target="lthJJ6roxLrwCFIqNwGu-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-111" value="96" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="2600" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-112" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="2630" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-113" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="2630" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-117" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-112" target="lthJJ6roxLrwCFIqNwGu-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="2590" as="sourcePoint" />
+            <mxPoint x="1340" y="2540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
