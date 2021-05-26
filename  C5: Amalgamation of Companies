@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T16:37:14.271Z" agent="5.0 (X11)" etag="rBvQxLW1PUmn6xqgvN5I" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T16:37:24.744Z" agent="5.0 (X11)" etag="6oo1kVsO4ODVReVxK_kD" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="2561" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2199" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -819,6 +819,9 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-97" value="60,000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="2340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-99" target="lthJJ6roxLrwCFIqNwGu-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-99" value="In the books of small co" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2430" width="120" height="40" as="geometry" />
         </mxCell>
@@ -827,6 +830,9 @@
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-100" value="&lt;div&gt;In the books of Big&lt;/div&gt;&lt;div&gt; co&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-137" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-104" target="lthJJ6roxLrwCFIqNwGu-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-104" value="deb in small co was at 50k but they are settled for 60k that means it is 10k loss for small co" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="840" y="2490" width="120" height="80" as="geometry" />
