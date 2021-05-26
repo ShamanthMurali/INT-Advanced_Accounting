@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T15:57:53.913Z" agent="5.0 (X11)" etag="Y9KkorJz9W_vYU5wWxUC" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T15:59:59.269Z" agent="5.0 (X11)" etag="WqWFQ9UXZxCsHyP61ZlL" version="14.7.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="2948" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -655,8 +655,14 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-38" value="it does not include" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-39" target="lthJJ6roxLrwCFIqNwGu-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-39" value="&lt;div&gt;1. Divisible profits&lt;/div&gt;&lt;div&gt;2. retained earnings&lt;/div&gt;&lt;div&gt;3. capital reserve&lt;/div&gt;&lt;div&gt;4. profits prior to Inc&lt;/div&gt;&lt;div&gt;5. revaluation reserve&lt;/div&gt;&lt;div&gt;6. securities premium&lt;/div&gt;&lt;div&gt;7. Capital redemption reserve (CRR)&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt; debenture redemption &lt;em&gt;reserve&lt;/em&gt; (&lt;em&gt;DRR&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;9. WCF(Reserve portion)[see. special cases]&lt;/div&gt;&lt;div&gt;10 investment fluction reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="2100" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lthJJ6roxLrwCFIqNwGu-40" target="lthJJ6roxLrwCFIqNwGu-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-40" value="&lt;div&gt;1. provident fund&lt;/div&gt;&lt;div&gt;2. pension fund&lt;/div&gt;&lt;div&gt;3. gratuity fund&lt;/div&gt;&lt;div&gt;4. retirement fund&lt;/div&gt;&lt;div&gt;5. WCF(liability portion))[see. special cases]&lt;/div&gt;&lt;div&gt;6. Workmen profit sharing fund&lt;/div&gt;&lt;div&gt;7. staff welfare fund&lt;/div&gt;&lt;div&gt;8. insurance policy reserve/fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="2100" width="240" height="170" as="geometry" />
@@ -669,6 +675,12 @@
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-46" value="&lt;div&gt;1. investment allowance reserve&lt;/div&gt;&lt;div&gt;2. development rebate reserve&lt;/div&gt;&lt;div&gt;3. Foreign project&lt;/div&gt;&lt;div&gt;4. export profit reserve&lt;/div&gt;&lt;div&gt;5. site restoration reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="2100" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-49" value="&lt;div&gt;1. It &lt;u&gt;&lt;b&gt;will not come in NATO&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. it will be &lt;u&gt;&lt;b&gt;transferred to Equity share holders a/c&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2290" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-51" value="&lt;div&gt;1. It &lt;u&gt;&lt;b&gt;will come in NATO&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. it will be &lt;u&gt;&lt;b&gt;transferred to Realization a/c&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2290" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
