@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T08:29:22.897Z" agent="5.0 (X11)" etag="69TIfVHYFOOtlsNcsyrV" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T10:44:37.714Z" agent="5.0 (X11)" etag="sGj-p89ZTCSkbG8qiNJm" version="14.7.3" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="4198" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2561" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,8 +469,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets** - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as per PC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets includes BV of GW&lt;/font&gt;&lt;/div&gt;&lt;div&gt;*** IV = Share value&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-990" y="2220" width="330" height="120" as="geometry" />
+        <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets** - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as per PC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets includes BV of GW&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets = assets - liabilities&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;*** IV = Share value&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="-990" y="2220" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-205" target="2xj69ejIfLscFSmYHfCP-202" edge="1">
           <mxGeometry relative="1" as="geometry" />
