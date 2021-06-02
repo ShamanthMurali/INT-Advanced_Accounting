@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T16:36:18.976Z" agent="5.0 (X11)" etag="LJWorIEhAfBOzuDCfiyS" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T16:37:19.343Z" agent="5.0 (X11)" etag="sRfmzuLB-wZPCzW1IFSc" version="14.7.3" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="3854" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="6132" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,16 +418,16 @@
           <mxGeometry x="200" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-183" value="&lt;div&gt;NOES&lt;/div&gt;&lt;div&gt;Number of equity shares&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NOES = total NOES of small co. - dissenting share holders&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-2160" y="1760" width="280" height="80" as="geometry" />
+          <mxGeometry x="-1170" y="1480" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-195" value="Share value not given?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-184" target="2xj69ejIfLscFSmYHfCP-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-184" value="&lt;div&gt;`\text{Swap Ratio} = \text{Share Value of small co}/\text{Share Value of big co}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="1900" width="330" height="80" as="geometry" />
+          <mxGeometry x="-810" y="1620" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-187" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1860" y="1780" width="40" height="40" as="geometry" />
+          <mxGeometry x="-870" y="1500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-190" value="" style="swimlane;startSize=40;sketch=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="150" y="1702.5" width="20" height="20" as="geometry">
@@ -441,7 +441,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-192" value="&lt;div&gt;`\text{Swap Ratio}`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="1760" width="330" height="80" as="geometry" />
+          <mxGeometry x="-810" y="1480" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-194" target="2xj69ejIfLscFSmYHfCP-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -450,13 +450,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-194" value="Calculation of share value" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1695" y="2040" width="120" height="40" as="geometry" />
+          <mxGeometry x="-705" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-196" target="2xj69ejIfLscFSmYHfCP-205" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1795" y="2180" />
-              <mxPoint x="-2065" y="2180" />
+              <mxPoint x="-805" y="1900" />
+              <mxPoint x="-1075" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -466,36 +466,36 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-196" target="2xj69ejIfLscFSmYHfCP-206" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1795" y="2180" />
-              <mxPoint x="-1635" y="2180" />
+              <mxPoint x="-805" y="1900" />
+              <mxPoint x="-645" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-196" value="If intrinsic value (IV) is given in the question " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1865" y="2120" width="140" height="40" as="geometry" />
+          <mxGeometry x="-875" y="1840" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-199" target="2xj69ejIfLscFSmYHfCP-222" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-199" value="If intrinsic value is &lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt; given in the question " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1540" y="2120" width="140" height="40" as="geometry" />
+          <mxGeometry x="-550" y="1840" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2xj69ejIfLscFSmYHfCP-202" target="2xj69ejIfLscFSmYHfCP-184" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2260" y="2320" />
-              <mxPoint x="-2260" y="1940" />
+              <mxPoint x="-1270" y="2040" />
+              <mxPoint x="-1270" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets** - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as per PC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets includes BV of GW&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets = assets - liabilities&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;*** IV = Share value&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-2230" y="2260" width="330" height="130" as="geometry" />
+          <mxGeometry x="-1240" y="1980" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-205" target="2xj69ejIfLscFSmYHfCP-202" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-205" value="No drama" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-2125" y="2200" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1135" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="2xj69ejIfLscFSmYHfCP-218" target="2xj69ejIfLscFSmYHfCP-214" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -504,13 +504,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-206" value="If big co is a new co" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1695" y="2200" width="120" height="40" as="geometry" />
+          <mxGeometry x="-705" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-207" target="2xj69ejIfLscFSmYHfCP-212" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-207" value="&lt;div&gt;Question states &lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;entries are to be made at par&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1875" y="2200" width="160" height="50" as="geometry" />
+          <mxGeometry x="-885" y="1920" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-85" value="" style="swimlane;startSize=40;sketch=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="330" y="2620" width="20" height="20" as="geometry">
@@ -529,16 +529,16 @@
           <mxGeometry y="40" width="430" height="300" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-212" value="IV = Nominal value of equity shares of big co" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1875" y="2270" width="160" height="40" as="geometry" />
+          <mxGeometry x="-885" y="1990" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-214" value="NATO = PC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1695" y="2320" width="120" height="40" as="geometry" />
+          <mxGeometry x="-705" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-218" value="IV = IP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1695" y="2260" width="120" height="40" as="geometry" />
+          <mxGeometry x="-705" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-222" value="&lt;div&gt;PC = NATO*&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(*NATO includes BV of GW)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="-1530" y="2180" width="120" height="40" as="geometry" />
+          <mxGeometry x="-540" y="1900" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-225" target="lthJJ6roxLrwCFIqNwGu-182" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -599,7 +599,7 @@
           <mxGeometry x="1085" y="3160" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-12" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Special Cases&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1100" width="850" height="120" as="geometry" />
+          <mxGeometry x="850" y="1350" width="850" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-13" target="lthJJ6roxLrwCFIqNwGu-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -724,11 +724,11 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-59" value="transfer to realization a/c" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="3780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-61" edge="1">
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.999;entryY=0.837;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lthJJ6roxLrwCFIqNwGu-61" edge="1" target="lthJJ6roxLrwCFIqNwGu-182">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="529" y="4530" as="targetPoint" />
+            <mxPoint x="360" y="5330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1610" y="4530" />
+              <mxPoint x="1610" y="5320" />
             </Array>
           </mxGeometry>
         </mxCell>
