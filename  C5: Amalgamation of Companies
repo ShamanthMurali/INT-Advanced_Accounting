@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T17:16:05.628Z" agent="5.0 (X11)" etag="17RgtBFF8hGo-G_oNORy" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T17:16:24.926Z" agent="5.0 (X11)" etag="Wq9cq_WDHBHYY9ymhyqX" version="14.7.3" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="5393" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -184,11 +184,6 @@
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-51" value="&lt;div&gt;Big co. t/o owner ship of small co.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Assets, liab, Share holder funds t/o&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;share holder of small co. are given owner ship in big company&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1100" width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-59" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640.0000000000002" y="1480.0000000000002" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-60" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-56" target="2xj69ejIfLscFSmYHfCP-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
