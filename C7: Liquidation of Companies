@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T12:21:04.916Z" agent="5.0 (X11)" etag="xm8JGoLjtFfWjcTS6UbM" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T12:24:25.471Z" agent="5.0 (X11)" etag="shp-jpTNZN0qNs9vpoa5" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="2089" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1558" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-128" value="Who will contribute?" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-85" y="2070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-133" value="&lt;div&gt;If he is not&lt;/div&gt;&lt;div&gt;able to pay&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-132" target="CfqSTqMgT7yihnACnHBW-130">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-133" value="&lt;div&gt;If present SH is not&lt;/div&gt;&lt;div&gt;able to pay&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-132" target="CfqSTqMgT7yihnACnHBW-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-130" target="CfqSTqMgT7yihnACnHBW-142">
