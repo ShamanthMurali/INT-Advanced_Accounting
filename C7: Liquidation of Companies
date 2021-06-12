@@ -1,29 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T17:56:51.866Z" agent="5.0 (X11)" etag="PmVtfTy1nA8znubCK-8G" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T06:32:10.120Z" agent="5.0 (X11)" etag="MNRTarqBz2MWCqv8B3g1" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
     <mxGraphModel dx="854" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-SdRS9f0QI0gdwh9bYG-1" target="C-SdRS9f0QI0gdwh9bYG-2">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C-SdRS9f0QI0gdwh9bYG-1" target="C-SdRS9f0QI0gdwh9bYG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-1" value="Liquidation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-1" value="Liquidation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-SdRS9f0QI0gdwh9bYG-2" target="C-SdRS9f0QI0gdwh9bYG-4">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C-SdRS9f0QI0gdwh9bYG-2" target="C-SdRS9f0QI0gdwh9bYG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-2" value="Winding up of business" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-2" value="Winding up of business" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-SdRS9f0QI0gdwh9bYG-4" target="C-SdRS9f0QI0gdwh9bYG-6">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C-SdRS9f0QI0gdwh9bYG-4" target="C-SdRS9f0QI0gdwh9bYG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Priority order of payment&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)Legal charges;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Liquidator’s expenses;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)Debenture holders (including interest up to the date of winding up if the company is insolvent and to the date of payment if it is solvent);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)Creditors:&lt;/div&gt;&lt;div&gt;(i) Preferential (in&amp;nbsp; actual&amp;nbsp; practice, preferential&amp;nbsp; creditors are paid before debenture holders having a floating charge);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)Unsecured creditors;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)Preferential&amp;nbsp; shareholders&amp;nbsp; (Arrears&amp;nbsp; of&amp;nbsp; dividends on&amp;nbsp; cumulative&amp;nbsp; preference shares should be paid up to the date of commencement of winding up); &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)&amp;nbsp; Equity shareholders.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Priority order of payment&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a)Legal charges;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b)Liquidator’s expenses;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c)Debenture holders (including interest up to the date of winding up if the company is insolvent and to the date of payment if it is solvent);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d)Creditors:&lt;/div&gt;&lt;div&gt;(i) Preferential (in&amp;nbsp; actual&amp;nbsp; practice, preferential&amp;nbsp; creditors are paid before debenture holders having a floating charge);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)Unsecured creditors;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e)Preferential&amp;nbsp; shareholders&amp;nbsp; (Arrears&amp;nbsp; of&amp;nbsp; dividends on&amp;nbsp; cumulative&amp;nbsp; preference shares should be paid up to the date of commencement of winding up); &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f)&amp;nbsp; Equity shareholders.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="100" width="340" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="C-SdRS9f0QI0gdwh9bYG-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Statement of affairs should accompany eight lists:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;List A&lt;/u&gt;&amp;nbsp;&lt;/b&gt; Assets not specifically pledged(ANSP) and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Assets specifically pledged(ASP).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List B&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to secured creditors having fixed charge&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List C&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to preferential creditors&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List D&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to secured creditors having floating charge&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List E&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to Unsecured creditors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List F&lt;/b&gt;&lt;/u&gt; Amount payable to preference shareholders.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List G&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to equity shareholders.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List H&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Deficiency or surplus account.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C-SdRS9f0QI0gdwh9bYG-6" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Statement of affairs should accompany eight lists:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;List A&lt;/u&gt;&amp;nbsp;&lt;/b&gt; Assets not specifically pledged(ANSP) and &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List B&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Assets specifically pledged(ASP) and Amount payable to secured creditors having fixed charge&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List C&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to preferential creditors&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List D&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to secured creditors having floating charge&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List E&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to Unsecured creditors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List F&lt;/b&gt;&lt;/u&gt; Amount payable to preference shareholders.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List G&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Amount payable to equity shareholders.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;List H&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Deficiency or surplus account.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="460" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-1" value="List A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-2" value="List B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-3" target="CfqSTqMgT7yihnACnHBW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-3" value="List C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-4" target="CfqSTqMgT7yihnACnHBW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-4" value="&lt;div&gt;1. Govt tax that arose 12 months before the date of liquidation&lt;/div&gt;&lt;div&gt;2. salary and wages of workers(excluding creditors) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4 months or Rs.20,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Which ever is less)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. amount due on PF, pension, gratuity, leave salary etc&lt;/div&gt;&lt;div&gt;4. compensation to workers under industrial disputes act or Workers Compensation Fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="980" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-6" value="&lt;div&gt;Overriding preferential creditors&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a.&amp;nbsp; workmen dues&lt;/div&gt;&lt;div&gt;b.&amp;nbsp; secured creditors against ASP&lt;/div&gt;&lt;div&gt;(paid together in proportionate basics)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**Overriding preferential creditors are paid ahead of preferential creditors&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1150" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-8" value="List C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
