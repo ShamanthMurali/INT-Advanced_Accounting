@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T06:59:41.503Z" agent="5.0 (X11)" etag="WDEY7OyRHJK7QNqgYJ9m" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T07:07:00.328Z" agent="5.0 (X11)" etag="e4ayYmPtPjhGuqe783JT" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="1770" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2089" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,6 +323,9 @@
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-111" value="`LR = x/(100+x)*USC`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1273" y="1955" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-120" value="B list contributers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="2140" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
