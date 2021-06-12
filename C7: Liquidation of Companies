@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T13:27:18.301Z" agent="5.0 (X11)" etag="ktULX8HICcYzBIHK-yEQ" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T13:28:20.421Z" agent="5.0 (X11)" etag="UvIN3oDC5fJX8yiKBuFQ" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="1440" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="4983" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -867,6 +867,15 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-312" target="CfqSTqMgT7yihnACnHBW-302">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-341" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-302">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1869.9999999999995" y="2680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2103" y="2650" />
+              <mxPoint x="1870" y="2650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-302" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="1900" y="2310" width="405" height="130" as="geometry" />
         </mxCell>
@@ -902,6 +911,14 @@
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-313" value="If shares are &lt;u&gt;&lt;b&gt;partly&lt;/b&gt;&lt;/u&gt; paid up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1597.5" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-340" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-322" target="CfqSTqMgT7yihnACnHBW-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1658" y="2650" />
+              <mxPoint x="1870" y="2650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-322" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="1517.5" y="2500" width="280.00000000000045" height="120" as="geometry" />
