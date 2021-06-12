@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T08:45:15.240Z" agent="5.0 (X11)" etag="AMrjhv-p2jeXOwZwxplQ" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T08:48:16.110Z" agent="5.0 (X11)" etag="P39ZTfCVDbJlgaHH6urk" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="1558" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1704" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -342,7 +342,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-127" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-125" target="CfqSTqMgT7yihnACnHBW-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-125" value="&lt;div&gt;when to ask unpaid shareholders for money?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-125" value="&lt;div&gt;when to ask unpaid shareholders for money?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-560" y="2000" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-129" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-126" target="CfqSTqMgT7yihnACnHBW-128">
@@ -354,7 +354,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-128" target="CfqSTqMgT7yihnACnHBW-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-128" value="Who will contribute?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-128" value="Who will contribute?" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-475" y="2130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-133" value="&lt;div&gt;If he is not&lt;/div&gt;&lt;div&gt;able to pay&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-132" target="CfqSTqMgT7yihnACnHBW-130">
@@ -370,7 +370,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-132" value="&lt;div&gt;Past shareholder&lt;/div&gt;&lt;div&gt;only if he fulfills the conditions&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="2190" width="120" height="50" as="geometry" />
+          <mxGeometry x="-780" y="2185" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-136" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="-840" y="2260" width="240" height="80" as="geometry" />
@@ -387,8 +387,14 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-140" value="2. Liability should have occured on or After the date of transfer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-139">
           <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-142" value="How much will he contribute?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-142" target="CfqSTqMgT7yihnACnHBW-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-142" value="How much will he contribute?" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-505" y="2250" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-144" value="&lt;div&gt;a. Unpaid amount&lt;/div&gt;&lt;div&gt;b. share of liability&lt;/div&gt;&lt;div&gt;{which ever is less}&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="2310" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
