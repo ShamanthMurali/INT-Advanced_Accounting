@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T12:42:04.473Z" agent="5.0 (X11)" etag="IpPDmwWG3cp0b1MJReid" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T13:22:00.127Z" agent="5.0 (X11)" etag="Ii_dt50Q-YfEt3vUlpOv" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="1558" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1705" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -632,10 +632,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-224" value="receive pay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="2400" width="120" height="40" as="geometry" />
+          <mxGeometry x="1640" y="2540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-226" target="CfqSTqMgT7yihnACnHBW-313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-226" target="CfqSTqMgT7yihnACnHBW-312">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-226" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="1700" width="405" height="650" as="geometry" />
+          <mxGeometry x="1675" y="1540" width="405" height="650" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-227" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
           <mxGeometry width="405" height="40" as="geometry" />
@@ -667,7 +673,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-236" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
           <mxGeometry y="120" width="405" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-237" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-236">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-237" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5" vertex="1" parent="CfqSTqMgT7yihnACnHBW-236">
           <mxGeometry width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-238" value="zzzz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-236">
@@ -694,7 +700,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-251" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
           <mxGeometry y="240" width="405" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-252" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-251">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-252" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5" vertex="1" parent="CfqSTqMgT7yihnACnHBW-251">
           <mxGeometry width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-253" value="xxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-251">
@@ -712,7 +718,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-245" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
           <mxGeometry y="320" width="405" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-246" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-245">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-246" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5" vertex="1" parent="CfqSTqMgT7yihnACnHBW-245">
           <mxGeometry width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-247" value="yyyy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-245">
@@ -739,7 +745,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-254" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
           <mxGeometry y="440" width="405" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-255" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-254">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-255" value="Total" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5" vertex="1" parent="CfqSTqMgT7yihnACnHBW-254">
           <mxGeometry width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-256" value="aaaa" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-254">
@@ -757,10 +763,10 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-265" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
           <mxGeometry y="520" width="405" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-266" value="A) Amount payable to equity share holders" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-265">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-266" value="Amount payable to equity share holders" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5" vertex="1" parent="CfqSTqMgT7yihnACnHBW-265">
           <mxGeometry width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-267" value="bbbb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-265">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-267" value="bbbb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="CfqSTqMgT7yihnACnHBW-265">
           <mxGeometry x="290" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-271" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-226">
@@ -790,6 +796,104 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="2070" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-286" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-285" target="CfqSTqMgT7yihnACnHBW-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-285" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when question says remuneration x% on unsecured creditors&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt; apply that x% on preferential creditors also&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1900" width="290" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#CCCCCC;strokeColor=#6666FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-293" target="CfqSTqMgT7yihnACnHBW-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2030" as="targetPoint" />
+            <mxPoint x="1610" y="2150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="855" y="2330" />
+              <mxPoint x="855" y="1850" />
+              <mxPoint x="-25" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-313" target="CfqSTqMgT7yihnACnHBW-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-292" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="2310" width="405" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-293" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-292">
+          <mxGeometry width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-294" value="&lt;div&gt;(+) Notional calls&lt;/div&gt;&lt;div&gt;number of shares * unpaid amount&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-293">
+          <mxGeometry width="285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-295" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-293">
+          <mxGeometry x="285" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-318" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-292">
+          <mxGeometry y="40" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-319" value="A) Amount payable to equity share holders" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-318">
+          <mxGeometry width="285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-320" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-318">
+          <mxGeometry x="285" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-296" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-292">
+          <mxGeometry y="80" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-297" value="B) Number of equity shares" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-296">
+          <mxGeometry width="285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-298" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-296">
+          <mxGeometry x="285" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-299" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-292">
+          <mxGeometry y="120" width="405" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-300" value="C) amount payable per share `(A/B)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-299">
+          <mxGeometry width="285" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-301" value="paisa" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-299">
+          <mxGeometry x="285" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#CCCCCC;" edge="1" parent="1" source="CfqSTqMgT7yihnACnHBW-312" target="CfqSTqMgT7yihnACnHBW-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-302" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2310" width="405" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-303" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-302">
+          <mxGeometry width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-304" value="Amount payable to equity share holders" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-303">
+          <mxGeometry width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-305" value="bbbb" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-303">
+          <mxGeometry x="290" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-306" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-302">
+          <mxGeometry y="40" width="405" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-307" value="B) Number of equity shares" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-306">
+          <mxGeometry width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-308" value="n" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-306">
+          <mxGeometry x="290" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-309" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-302">
+          <mxGeometry y="80" width="405" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-310" value="C) amount payable per share `(A/B)`" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-309">
+          <mxGeometry width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-311" value="paisa" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-309">
+          <mxGeometry x="290" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-312" value="&lt;div&gt;If shares are &lt;u&gt;&lt;b&gt;Fully&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;paid up&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2042" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-313" value="If shares are &lt;u&gt;&lt;b&gt;partly&lt;/b&gt;&lt;/u&gt; paid up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1597.5" y="2240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
