@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T09:04:30.523Z" agent="5.0 (X11)" etag="n-0D2QK3D7Dhv15tPTUu" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T09:26:01.972Z" agent="5.0 (X11)" etag="YXjBdAkG2cHzkW2VkSr6" version="14.7.7" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="1614" dy="2632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1346" dy="2558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-4" target="CfqSTqMgT7yihnACnHBW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-4" value="&lt;div&gt;1. Govt tax that arose 12 months before the date of liquidation&lt;/div&gt;&lt;div&gt;2. salary and wages of workers(excluding creditors) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4 months or Rs.20,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Which ever is less)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. amount due on PF, pension, gratuity, leave salary etc&lt;/div&gt;&lt;div&gt;4. compensation to workers under industrial disputes act or Workers Compensation Fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CfqSTqMgT7yihnACnHBW-4" value="&lt;div&gt;1. Govt tax that arose 12 months before the date of liquidation&lt;/div&gt;&lt;div&gt;2. salary and wages of workers(excluding creditors) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4 months or Rs.20,000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Which ever is less)(&lt;u&gt;For one individual only mind it&lt;/u&gt;)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. amount due on PF, pension, gratuity, leave salary etc&lt;/div&gt;&lt;div&gt;4. compensation to workers under industrial disputes act or Workers Compensation Fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="-900" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-6" value="&lt;div&gt;Overriding preferential creditors&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a.&amp;nbsp; workmen dues&lt;/div&gt;&lt;div&gt;b.&amp;nbsp; secured creditors against ASP&lt;/div&gt;&lt;div&gt;(paid together in proportionate basics)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**Overriding preferential creditors are paid ahead of preferential creditors&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -110,7 +110,7 @@
           <mxGeometry x="365" y="-320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-51" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="285" y="-230" width="280" height="180" as="geometry" />
+          <mxGeometry x="285" y="-260" width="280" height="220" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-52" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CfqSTqMgT7yihnACnHBW-51" vertex="1">
           <mxGeometry width="280" height="20" as="geometry" />
@@ -157,8 +157,26 @@
         <mxCell id="CfqSTqMgT7yihnACnHBW-66" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="CfqSTqMgT7yihnACnHBW-64" vertex="1">
           <mxGeometry x="240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-67" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CfqSTqMgT7yihnACnHBW-51" vertex="1">
+        <mxCell id="9843vqnPCObXll7ysQUE-4" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-51">
           <mxGeometry y="100" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9843vqnPCObXll7ysQUE-5" value="Unpaid dividend" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="9843vqnPCObXll7ysQUE-4">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9843vqnPCObXll7ysQUE-6" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="9843vqnPCObXll7ysQUE-4">
+          <mxGeometry x="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9843vqnPCObXll7ysQUE-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CfqSTqMgT7yihnACnHBW-51">
+          <mxGeometry y="120" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9843vqnPCObXll7ysQUE-2" value="Contingent liability" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="9843vqnPCObXll7ysQUE-1">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9843vqnPCObXll7ysQUE-3" value="xx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="9843vqnPCObXll7ysQUE-1">
+          <mxGeometry x="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CfqSTqMgT7yihnACnHBW-67" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CfqSTqMgT7yihnACnHBW-51" vertex="1">
+          <mxGeometry y="140" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-68" value="Deficiency portion of secured creditors" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="CfqSTqMgT7yihnACnHBW-67" vertex="1">
           <mxGeometry width="240" height="20" as="geometry" />
@@ -167,7 +185,7 @@
           <mxGeometry x="240" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-70" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CfqSTqMgT7yihnACnHBW-51" vertex="1">
-          <mxGeometry y="120" width="280" height="20" as="geometry" />
+          <mxGeometry y="160" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-71" value="Excess portion of preferential creditors" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="CfqSTqMgT7yihnACnHBW-70" vertex="1">
           <mxGeometry width="240" height="20" as="geometry" />
@@ -176,7 +194,7 @@
           <mxGeometry x="240" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-73" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CfqSTqMgT7yihnACnHBW-51" vertex="1">
-          <mxGeometry y="140" width="280" height="40" as="geometry" />
+          <mxGeometry y="180" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-74" value="Amount payable" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5" parent="CfqSTqMgT7yihnACnHBW-73" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
