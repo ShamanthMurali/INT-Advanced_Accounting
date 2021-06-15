@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T13:06:37.758Z" agent="5.0 (X11)" version="14.7.8" etag="v1kv_hu5pEoq5prkizRF" type="github"><diagram id="dAaQj1fU_fCdfpFiRo2B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-15T13:26:11.874Z" agent="5.0 (X11)" etag="vaj0-rTXU_8pUFAvaD9E" version="14.7.8" type="github">
+  <diagram id="dAaQj1fU_fCdfpFiRo2B" name="Page-1">
+    <mxGraphModel dx="1041" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="prwFnhC0ImdhUCS1tvMW-1" target="prwFnhC0ImdhUCS1tvMW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-1" value="Amalgamation of partnership firms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="prwFnhC0ImdhUCS1tvMW-2" target="prwFnhC0ImdhUCS1tvMW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-2" value="&lt;div&gt;Step 1&lt;/div&gt;&lt;div&gt;Purchase consideration&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="prwFnhC0ImdhUCS1tvMW-3" target="prwFnhC0ImdhUCS1tvMW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div dir=&quot;ltr&quot; style=&quot;margin-left: 36pt&quot; id=&quot;docs-internal-guid-cd01c361-7fff-a1f8-cbe2-f2631bd4d8ba&quot; align=&quot;left&quot;&gt;&lt;table style=&quot;border: none ; border-collapse: collapse&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;352&quot;&gt;&lt;col width=&quot;106&quot;&gt;&lt;col width=&quot;95&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;1st firm&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;2nd firm&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;All assets&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;(use figures from adjustments if available, if not only then take the figure from balance sheets)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;x&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;x&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;All liabilities&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;(use figures from adjustments if available, if not only then take the figure from balance sheets)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;(x)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;(x)&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 0pt&quot;&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Purchase consideration&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;xx&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;border-left: solid #000000 1pt ; border-right: solid #000000 1pt ; border-bottom: solid #000000 1pt ; border-top: solid #000000 1pt ; vertical-align: top ; background-color: #ffffff ; padding: 5pt 5pt 5pt 5pt ; overflow: hidden ; overflow-wrap: break-word&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;arial&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;xx&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="130" width="550" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-6">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-7">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-9" value="&lt;div&gt;1st&lt;/div&gt;&lt;div&gt;partner&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-7">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-10" value="&lt;div&gt;2nd&lt;/div&gt;&lt;div&gt;partner&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-7">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-11" value="&lt;div&gt;3rd&lt;/div&gt;&lt;div&gt;partner&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-7">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-6">
+          <mxGeometry y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-13" value="1st firms GW in 1st firms PSR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-12">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-14" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-12">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-15" value="x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-12">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-12">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-6">
+          <mxGeometry y="80" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-18" value="2nd firms GW in 2nd firms PSR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-17">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-17">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-20" value="y" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-17">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-21" value="y" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-17">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-6">
+          <mxGeometry y="120" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-23" value="(-) {1st firms GW + 2nd firms GW} in New firms PSR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-22">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-24" value="(z)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-22">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-25" value="(z)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-22">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-26" value="(z)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-22">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-6">
+          <mxGeometry y="160" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-28" value="&lt;div&gt;(a) = pay(bring in money)&lt;/div&gt;&lt;div&gt;a = take(withdraw excess)&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-27">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-29" value="(a)/a" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-27">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-30" value="(a)/a" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-27">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-31" value="(a)/a" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="prwFnhC0ImdhUCS1tvMW-27">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="prwFnhC0ImdhUCS1tvMW-33" value="GW adjustment " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
