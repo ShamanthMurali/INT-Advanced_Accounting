@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T11:33:47.188Z" agent="5.0 (X11)" etag="0dVcZkYrnFvVsho2zLFF" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T11:34:46.182Z" agent="5.0 (X11)" etag="_6mZRwh0LfYpKqfjtDxY" version="14.7.7" type="github">
   <diagram id="u_qF_d5VCYmif-R3V8I7" name="Page-1">
-    <mxGraphModel dx="3113" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3557" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,6 +333,12 @@
         </mxCell>
         <mxCell id="OIHRE6QrhcUJVucPw959-126" value="&lt;div&gt;1. realization a.c&lt;/div&gt;&lt;div&gt;2. JSC a/c&lt;/div&gt;&lt;div&gt;3. Cash / Bank a/c&lt;/div&gt;&lt;div&gt;4. Partners capital a/c&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="2780" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OIHRE6QrhcUJVucPw959-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OIHRE6QrhcUJVucPw959-122" target="OIHRE6QrhcUJVucPw959-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OIHRE6QrhcUJVucPw959-128" value="&lt;div&gt;Prepare B/S&lt;/div&gt;&lt;div&gt;as per sch III&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="2720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
