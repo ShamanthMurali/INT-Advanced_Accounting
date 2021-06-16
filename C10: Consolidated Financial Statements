@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T07:24:30.810Z" agent="5.0 (X11)" etag="87AUjAU-9bLzxg06ehlu" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T07:30:59.066Z" agent="5.0 (X11)" etag="MdvthHN4A16-dDwxA-Ni" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
     <mxGraphModel dx="1251" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="HYHgVCszjDlrY0Yv24N1-1" value="Consolidated Financial Statements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-2" value="Minority interest or non-controlling interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
