@@ -1,41 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T07:41:28.756Z" agent="5.0 (X11)" etag="UjKsAKOIkX8uXe7O8_PC" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T07:54:50.520Z" agent="5.0 (X11)" etag="-NVnHxaGbpepjEef--Th" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
-    <mxGraphModel dx="1251" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYHgVCszjDlrY0Yv24N1-1" value="Consolidated Financial Statements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYHgVCszjDlrY0Yv24N1-2" target="HYHgVCszjDlrY0Yv24N1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYHgVCszjDlrY0Yv24N1-2" target="HYHgVCszjDlrY0Yv24N1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-2" value="Minority interest or non-controlling interest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-3" value="Consolidation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-4" value="Cost of control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-5" value="pre / post profit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-6" value="Adjustments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="1000" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-8" value="Bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-9" value="Dividend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-10" value="URP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="1000" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-11" value="&lt;div&gt;Contra items&lt;/div&gt;&lt;div&gt;(mutual owings)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="860" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-12" value="Treatment of fictitious assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-13" value="e.g Holding has 70%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-14" value="&lt;div&gt;then,&lt;/div&gt;&lt;div&gt;30% is MI or non-controlling interest&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
