@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T07:54:50.520Z" agent="5.0 (X11)" etag="-NVnHxaGbpepjEef--Th" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T08:50:22.860Z" agent="5.0 (X11)" etag="vq6org3F_vME_fsMXtJn" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
-    <mxGraphModel dx="1713" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2637" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,17 @@
         <mxCell id="HYHgVCszjDlrY0Yv24N1-12" value="Treatment of fictitious assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYHgVCszjDlrY0Yv24N1-13" target="HYHgVCszjDlrY0Yv24N1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-13" value="e.g Holding has 70%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-14" value="&lt;div&gt;then,&lt;/div&gt;&lt;div&gt;30% is MI or non-controlling interest&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HYHgVCszjDlrY0Yv24N1-17" value="&lt;div&gt;Any extra paid by them is for control&lt;/div&gt;&lt;div&gt;this extra is GW&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
