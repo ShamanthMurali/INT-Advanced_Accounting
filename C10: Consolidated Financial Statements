@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T05:42:59.602Z" agent="5.0 (X11)" etag="yOkCTaRFClalP4FMjYL6" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T05:47:17.605Z" agent="5.0 (X11)" etag="TjhBC8WIh-p2it3NKbEF" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
     <mxGraphModel dx="1562" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,6 +87,33 @@
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-7" value="Post-period" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-13" value="" style="shape=stencil(lVfLbhsxDPyavRKSqAd1TtP/CBCnNurageO2yd+XxqJtSAND7G295kjkcDjSLvzwtn963S0lvV0v5++734fn637hL0sph9N+dzlc9Wnhx4UfXs6X3bfL+efpef39+nSLvD39OP+6rfC+4hKldAOV9LG+aP/efF3jj4eTic9zW7z0LfGFis2nVioTxU+bTy3UwPqVmG08zqeRFBPPA66v/zYb3+D6k6pbH+efM/GwAFxAZuK+CdCobgMMGrZnzDQaAEySvIXUkmm6rmGWtM3JslQFplQ6ZQtonQoCiGep46KVxG47PTLcQUlMdoeBa1ClOS0JZomFkgPgonVWxKpbcEpVOakGMHHRtZOIBeAa1E6yFd/EfWg6D24HPKEqBA/ALLW7mZ5Y3r0QOwCmtVeatg854RntgypvQ0waZRNC9dzrNgR7MwuYGlq46zZu3tBWOWqxAMcdURKkJNStPAQLcKj7WZqCuRadOsvSwDuI2qX11x7scGc1HUtcKg23Ax5TNRa2RbcgpeEl3nCnRafO7YA7PZPXUnBGqBOxLbpiltSJuq0hOLZmvTsYg5TU8t3RG6TU/H0sup/oenYegsNdAc3eyIIbjQKcWoP7hnqEm+kSFD18SiWoQcVnWSqBlsQ7eA4ap65hU8pBDZOSM/CA1um9Ncho+qO6Ux8w3o0PFtKns+AvwLdZH/5/prwcjsf1K+fz//6zRl+tn0T8+Ac=);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10.571428571428669" y="717" width="293.42857142857144" height="5.714285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-14" value="" style="shape=stencil(lZPdDsIgDIWfhtsGqBS4nvoeJqIjzm2Z8+/t3YKJm06S3pVyvtKSHoHFpdy1QWh56bvmFO5x35cC10LrWJehi/0QCdwILA5NF45dc6336dzuRuUYnZvbWOGROAlSjpCWz6/ENsmrWE/kREB2pleA9F/vfup7cJn6zoBV8/oEiBnAgpk/oDyg/w8o+dOSNtmZFwhUQJmmlggPmtfVysBKsQijwPC6MhbIsAhCsI5HePC837XEncNp7hzD3tjM3i4QHsHxJp+k3sgQfIx4iFWVfDy9/zbukEqmx80L);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8.85714285714289" y="713.5714285714287" width="0.5714285714285714" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-15" value="" style="shape=stencil(lZNLbsMwDERPo+1AIvVdp+k9AsSpjbp24Dj93L42VKCRXBPojqLmCRxSVHy4tadro0jf5ml8bT6689wqflJE3dA2UzcvkeKj4sNlnJqXabwP53y+nlblGr2N7+sLn5nT0HqFSH9Viecs77tBkhMC7csNg7nQR6S4rydGNIXeOAQrAAkmlEBCEgxwgKscLBm3D1iHWFpgDxI8u1h7tlYsyXv40oOz0EKXgqun4AkkdCluxhA0rBGATZdChPb7QDK1h2hhBA9p09aYQEn4Snrz95KFE2r6iwhI/yMeUj/IEvwu06Xr+7yLj/f18i2pvLh8/AY=);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="301.42857142857133" y="710.1428571428571" width="1.7142857142857142" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-16" value="" style="shape=stencil(lVjLbhsxDPwaXwlJFPU4p+1/BIjTGE3jwElff18ahtYmVx7DN3s9s9ZSw+FoN/zw8fL4vt2k8PF52P/Y/tk9fb5s+Msmpd3by/aw+9RPG/664Yfn/WH7/bD/9fZ0+v7+eEQeP/3c/z7e4e+JFyiEIymFf6cLMSyXvp0Ir7s3Qzj+dEHonVJH+JotXsaVKT5SbBbPFCLC52jxkWpB+GbX0zoxwCditvhCFdQnUasWz1TbdTz79TetQLqOz37DaqMI6p9J7HqqkPB1vFB0+OWJruBrt3hVCNivQtnWv1Son0rR4TPcr+rrX+L4xym+UbH1lAb3a1HLgi/EAB+DL6joliOBRgr2iSVQA4pTQrMtkyvcsph8T2aBexaZihVpTiQCCKo6W9WsZUAPLZQtgeu4xZxQhmoWwqL0OaESW+PiSB09dPME1UoHSo3dP4OKnUGrqTeK1ZK6QQdaVfOqdqf1iiACr+y9UwQbp3YR7ZIibk/tf7HS0K0siFC8YUTc0Fp15wAqR0YO3EnsxqngkZY4eM+I2DM4UbL7oF3OQHysDWSnSIdiZaFgtwGbEq9ctVFCD9DGTF1cmyroBe5U7HoK7J0cKbHDw6GWvLBVVmioZd+bMi7M8TL66owPoA3UQItY/6IENJr7KPdiLtDj1dGLa+RR4Dk+eT0kimiI69+7Jhtjbo5f6S2OC3N88aki4FCheusOj0KmdD+hMF5nvJvKN/CJOt+Dz5TlHrzq7a71VMrpHnyj5u+PIoJmMpeq47jBHB+HnZ31jEKmZsRi8Xm4/By/SrFlNNwcL8Pxz/4mwH9qWelfOw4YYq1jjl7MjAocWlN3dh1zI5d2H/TjIpJ5MA2rIYNHcYurJm4jGV4jNKtqlVFGhOTDsvpQAFXSs4/LgTcSTsu+kdWpkbKbrAgVWqke3/ySlrwwJ1QffjU4IrG2NqS2EBhOYz2B+n/I45Q6P4OEFaHAwKJnYrF+p/EaybunIYSFgI/Jekp3jqGJH8m7Z29JN84USnAzXFMAyrLHFw32oXMZLTUnFN/Tecmec0Kl4GKLNi0qq2rJ5RY8yHsbPy8EnESU4Caz4OilhGatUip1VKXujwiCw6wSXFgrKg3Q00pw7q3zOqEqdR/XCj4iKKG5JWV4kDoS3JL0xAqWdPEa7YJhG0I/nF/LPe9eX09v9S5/96/x9NLpFSB//Q8=);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="16.85714285714289" y="683.8571428571429" width="264" height="26.857142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-17" value="" style="shape=stencil(lZbbchshDIafZm//AYQEus7hPTITp96pY2ccJ23fvmx3srVIqg53a9Bn9KMTE9287h9edlMKr5fz6fvux/x42U90O6U0H/e783xpXxPdTXTzdDrvvp1Pb8fH9ffLw2K5fD2f3pd/+LlyVJDKQqXwa10JCOHPwv1qf5iPV/Y5gOuIfcayd2VPIHLsK8TaV3D5tz0HUDT2MaA6B3BGyBbIiN4JBUUsUF0JEpHVAP/RLNzfUSrQ5AAVajVQcoGSENgCBaE6ACNa0TlCnFsqFdXmRRYXqAliA8cJ7GRSFZAVzf4tVUW2gPgnaNu2tyS+BmUEMkAJyI5LWhGtS8VPPlWQvdbiBy6GrR43QgePqKMiakRiB5C+x7TgeyKUULQHvFBrgHQa/JJryaQyBBAqDwEBZQhogZU8BGQwDQGtM8YRQFrrCz1QnEgLQbs4+Pkt4SNzNoDdecICTj3g9vv04cAG+EXdJlDuXPL7TBtxpXPJr7illdo4qD+zWrOuth7ULyBqLtk4qB9paiVvc0n9wCVB6TSw2zVS6lND/Ti0KSudS8Vt322Oa+eSP6jbS4GlB7z0bplmy0G3EfO1ZmQr+ao7fwl86t2fgfbx9y33NB8O61Pwer9/+7Wl9d1Id78B);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277.1428571428571" y="690.7142857142858" width="11.5" height="17.142857142857142" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-18" value="Year starting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30.86" y="740" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-19" value="Year ending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262.28999999999996" y="740" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-20" value="&lt;div&gt;P/L a/c (S) on YS&lt;/div&gt;&lt;div&gt;(usually available in adj)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50.86" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-22" value="&lt;div&gt;P/L a/c (S) on YE&lt;/div&gt;&lt;div&gt;(taken from cl/BS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
