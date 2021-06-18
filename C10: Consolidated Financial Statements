@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T07:34:00.758Z" agent="5.0 (X11)" etag="0bBOx9kcPMgy6LO41tLv" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T08:00:20.575Z" agent="5.0 (X11)" etag="JTFe9H3nRgfqUw5hX14V" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
     <mxGraphModel dx="2096" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -16,17 +16,14 @@
         <mxCell id="HYHgVCszjDlrY0Yv24N1-2" value="Minority interest or non-controlling interest" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HYHgVCszjDlrY0Yv24N1-3" value="Consolidation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="600" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-4" value="Cost of control" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1410" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="1880" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-5" value="Analysis of profit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="89.86" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-8" value="Bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-450.14" y="1480" width="120" height="40" as="geometry" />
+          <mxGeometry x="-440" y="1700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-10" value="URP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2560" width="120" height="40" as="geometry" />
@@ -38,7 +35,7 @@
           <mxGeometry x="-430" y="2150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-12" value="Treatment of fictitious assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="1890" width="120" height="40" as="geometry" />
+          <mxGeometry x="-600" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HYHgVCszjDlrY0Yv24N1-13" target="HYHgVCszjDlrY0Yv24N1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -369,16 +366,16 @@
         <mxCell id="k0UTaCpy3_ewbkWii4iK-212" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k0UTaCpy3_ewbkWii4iK-208">
           <mxGeometry x="260" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="k0UTaCpy3_ewbkWii4iK-195" value="GW" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-138" target="k0UTaCpy3_ewbkWii4iK-194">
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-195" value="GW" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.526;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-148" target="k0UTaCpy3_ewbkWii4iK-194">
           <mxGeometry x="-0.9237" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="2520" />
+              <mxPoint x="627" y="2520" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-138" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1920" width="280" height="160" as="geometry" />
+          <mxGeometry x="480" y="1920" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-139" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k0UTaCpy3_ewbkWii4iK-138">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -466,7 +463,7 @@
           <mxGeometry x="-360" y="1910" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-165" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1880" width="280" height="200" as="geometry" />
+          <mxGeometry x="70" y="1880" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-166" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k0UTaCpy3_ewbkWii4iK-165">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -514,15 +511,15 @@
           <mxGeometry x="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-178" value="Consolidated reserves and surplus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1840" width="280" height="40" as="geometry" />
+          <mxGeometry x="70" y="1840" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-188" value="&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="2240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k0UTaCpy3_ewbkWii4iK-189" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-179" target="k0UTaCpy3_ewbkWii4iK-188">
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-189" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.483;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-179" target="k0UTaCpy3_ewbkWii4iK-188">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="2250" />
+              <mxPoint x="205" y="2250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -549,6 +546,9 @@
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-197" value="Statement of net assets (SONA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1420" width="320.14" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-213" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Steps to solve&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Shareholding pattern&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. analysis of profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. adjustment entries&lt;/div&gt;&lt;div&gt;a. rectification of error of final dividend&lt;/div&gt;&lt;div&gt;b. URP&lt;/div&gt;&lt;div&gt;c. Revaluation&lt;/div&gt;&lt;div&gt;d. additional depreciation&lt;/div&gt;&lt;div&gt;e. mutual owing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Statement of net assets (SONA)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Cost of control&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Minority interest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. consolidated reserves and surplus&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. consolidated balance sheet&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="160" width="240" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
