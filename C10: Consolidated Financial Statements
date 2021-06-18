@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T08:00:20.575Z" agent="5.0 (X11)" etag="JTFe9H3nRgfqUw5hX14V" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T08:16:46.823Z" agent="5.0 (X11)" etag="5VrDM_bYSTUs18pBTncq" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
-    <mxGraphModel dx="2096" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
           <mxGeometry x="89.86" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-8" value="Bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="1700" width="120" height="40" as="geometry" />
+          <mxGeometry x="960" y="1680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-10" value="URP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="2560" width="120" height="40" as="geometry" />
+          <mxGeometry x="960" y="1740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="HYHgVCszjDlrY0Yv24N1-11" target="k0UTaCpy3_ewbkWii4iK-90">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="-430" y="2150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-12" value="Treatment of fictitious assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="1800" width="120" height="40" as="geometry" />
+          <mxGeometry x="960" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HYHgVCszjDlrY0Yv24N1-13" target="HYHgVCszjDlrY0Yv24N1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -549,6 +549,18 @@
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-213" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Steps to solve&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Shareholding pattern&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. analysis of profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. adjustment entries&lt;/div&gt;&lt;div&gt;a. rectification of error of final dividend&lt;/div&gt;&lt;div&gt;b. URP&lt;/div&gt;&lt;div&gt;c. Revaluation&lt;/div&gt;&lt;div&gt;d. additional depreciation&lt;/div&gt;&lt;div&gt;e. mutual owing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Statement of net assets (SONA)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Cost of control&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Minority interest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. consolidated reserves and surplus&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. consolidated balance sheet&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="160" width="240" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-216" value="Revaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-217" value="additional depreciation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-218" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Important points&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. If opeing balance of P/L is not given assume 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. analysis of GR is same as analysis of profit&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. is op.bal of GR is not given&lt;/div&gt;&lt;div&gt;Op.bal GR = Cl.bal GR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;gt;&amp;gt;any adjustment which impacts the (S) P/L will impact SONA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;gt;&amp;gt; any adiustment which impact the (H) P/L will impact CBS / Res and surpuls&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1480" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-219" value="dividend rectification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
