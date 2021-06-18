@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T06:26:43.047Z" agent="5.0 (X11)" etag="9y_d0Vp_71N_oclTxb2x" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T06:39:08.043Z" agent="5.0 (X11)" etag="qg43yZs8NGVRM_lze2jA" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
-    <mxGraphModel dx="2096" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="7080" dy="3135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,19 +29,22 @@
           <mxGeometry x="110.13999999999999" y="1440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-8" value="Bonus shares" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390.14" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-9" value="Dividend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250.14" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="161.01" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-10" value="URP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110.13999999999999" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="-39.72000000000003" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HYHgVCszjDlrY0Yv24N1-11" target="k0UTaCpy3_ewbkWii4iK-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-11" value="&lt;div&gt;Contra items&lt;/div&gt;&lt;div&gt;(mutual owings)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-29.860000000000014" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="-240" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-12" value="Treatment of fictitious assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-169.86" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="-440" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HYHgVCszjDlrY0Yv24N1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HYHgVCszjDlrY0Yv24N1-13" target="HYHgVCszjDlrY0Yv24N1-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -242,6 +245,9 @@
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-89" value="yyy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1" vertex="1" parent="k0UTaCpy3_ewbkWii4iK-86">
           <mxGeometry x="306" width="154" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-90" value="&lt;div&gt;Crs / BP / loan a/c Dr&lt;/div&gt;&lt;div&gt;To Drs / BR / Advances&lt;/div&gt;&lt;div&gt;(same should adjusted in CBS)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1580" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
