@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T06:16:33.857Z" agent="5.0 (X11)" etag="Ot3ujBBukBTy_00QhjVz" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T06:22:04.149Z" agent="5.0 (X11)" etag="PKQE6alWxLH90Y_d04IC" version="14.7.9" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
-    <mxGraphModel dx="1709" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2630" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,6 +188,33 @@
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-64" value="B" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="1150" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-69" value="Post-period" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-71" value="Pre-period" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-74" target="k0UTaCpy3_ewbkWii4iK-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-74" target="k0UTaCpy3_ewbkWii4iK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-74" value="divide CY profit in ratio of" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.85" y="1030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-75" value="C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="241.01000000000002" y="1220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-76" value="D" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369.87" y="1220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-77" value="&lt;div&gt;(-) Interim dividend&lt;/div&gt;&lt;div&gt;(portion of amt of months from &lt;br&gt;&lt;/div&gt;&lt;div&gt;Declared to DOA)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200.15" y="1150" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k0UTaCpy3_ewbkWii4iK-78" value="&lt;div&gt;(-) Interim dividend&lt;/div&gt;&lt;div&gt;&lt;div&gt;(portion of amt of months from &lt;br&gt;&lt;/div&gt;&lt;div&gt;DOA to payment)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329.87" y="1150" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
