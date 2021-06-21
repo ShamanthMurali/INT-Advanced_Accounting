@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T15:04:00.976Z" agent="5.0 (X11)" etag="nAB-YkNy-uXCSEBtA9UX" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T15:32:45.214Z" agent="5.0 (X11)" etag="cJdRDWz4tovMprVoVNCE" version="14.8.0" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="2739" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="5263" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -714,12 +714,13 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-59" value="transfer to realization a/c" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="3780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1.004;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lthJJ6roxLrwCFIqNwGu-61" target="lthJJ6roxLrwCFIqNwGu-182" edge="1">
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="1pbbvkUAlwbX9dlN_rtj-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="5330" as="targetPoint" />
+            <mxPoint x="270" y="5160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1610" y="5178" />
+              <mxPoint x="1610" y="5160" />
             </Array>
+            <mxPoint x="1610" y="4000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-61" value="If specified period is not over yet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1122,6 +1123,33 @@
         </mxCell>
         <mxCell id="1pbbvkUAlwbX9dlN_rtj-1" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-2" value="&lt;div&gt;it must be shown in null effect&lt;/div&gt;&lt;div&gt;i.e&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="3840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1pbbvkUAlwbX9dlN_rtj-2" target="1pbbvkUAlwbX9dlN_rtj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-3" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="3900" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1pbbvkUAlwbX9dlN_rtj-3">
+          <mxGeometry width="240" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-5" value="Reserves" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1pbbvkUAlwbX9dlN_rtj-4">
+          <mxGeometry width="200" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1pbbvkUAlwbX9dlN_rtj-4">
+          <mxGeometry x="200" width="40" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1pbbvkUAlwbX9dlN_rtj-3">
+          <mxGeometry y="33" width="240" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-8" value="&lt;div&gt;Statutory reserves&lt;/div&gt;&lt;div&gt;(-) Amalgamation adjustment reserve&lt;/div&gt;&lt;div&gt;general reserve&lt;/div&gt;&lt;div&gt;P/l reserve&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1pbbvkUAlwbX9dlN_rtj-7">
+          <mxGeometry width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="1pbbvkUAlwbX9dlN_rtj-9" value="&lt;div&gt;y&lt;/div&gt;&lt;div&gt;(y)&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;z&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1pbbvkUAlwbX9dlN_rtj-7">
+          <mxGeometry x="200" width="40" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
