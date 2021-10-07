@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T20:50:00.513Z" agent="5.0 (X11)" etag="RmkfPPNpDFw225SEb4N8" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T06:06:58.021Z" agent="5.0 (X11)" etag="sKmfxXqEUBxnAru5obFc" version="15.4.3" type="github">
   <diagram id="7Ncm8IUPmJzmxYqZfwtV" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,8 +117,11 @@
         <mxCell id="CwSNwrdwi1RjZ95258oH-50" value="Dissolution of partnership" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bcOShWAs28yZJOSgOvbv-1" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.warning;" vertex="1" parent="1">
+        <mxCell id="bcOShWAs28yZJOSgOvbv-1" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.warning;" parent="1" vertex="1">
           <mxGeometry x="1520" y="2180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sqhpCjLeB5lioxWHyYiZ-4" value="Running &#xa;security&#xa;police&#xa;usually&#xa;pat&#xa;paat&#xa;pat&#xa;marega" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=script;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="60" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
