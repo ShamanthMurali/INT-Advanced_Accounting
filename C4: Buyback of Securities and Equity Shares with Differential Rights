@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T06:24:41.532Z" agent="5.0 (X11)" etag="rvF36wZZ3AX_U0dHhdmb" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T06:25:24.699Z" agent="5.0 (X11)" etag="PppNCbvDdtsRuvocnxw9" version="15.5.4" type="github">
   <diagram id="VnD_nrGOibuU59RRkXsP" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -229,6 +229,9 @@
         </mxCell>
         <mxCell id="YMKDS70k6wsc6alGlrBr-76" value="1. assume the number of SBB as x&lt;br&gt;2. if for example the debt=1800,equity=750, MP=30, FV=10&lt;br&gt;3. the the funds that can be applied for buy back is 30x&lt;br&gt;3. the funds that needs to be transfered to CRR will be 10x&lt;br&gt;4. using formula&lt;br&gt;1800k = 2 (750k - 30x - 10x)&lt;br&gt;1800k = 2 ( 750k - 40x)&lt;br&gt;1800k = 1500k - 80x&lt;br&gt;x = 3.37k&amp;nbsp; shares&lt;br&gt;Therefore, 3.37k Equity shares can be Bougth Back.&lt;br&gt;&lt;br&gt;if x comes out negetive the it not possible to do buy back." style="rounded=0;whiteSpace=wrap;html=1;" parent="YMKDS70k6wsc6alGlrBr-75" vertex="1">
           <mxGeometry y="40" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KPNpY_5MQVVeZdk53TZK-1" value="mind if Z is on credit you have to subtract it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1440" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
