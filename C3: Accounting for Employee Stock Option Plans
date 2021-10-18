@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T07:29:07.063Z" agent="5.0 (X11)" etag="ElwdknXrXPztDJx0dNfd" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T07:31:09.434Z" agent="5.0 (X11)" etag="RFC-t59fhTlFJoAoVqX2" version="15.5.4" type="github">
   <diagram id="Fy2hQaFyj5nfAJLwqQMq" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -144,7 +144,7 @@
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z3kOPlYkljQr6b6lWWEr-63" value="ESOP expense must be &lt;u&gt;&lt;b&gt;recorded every year&lt;/b&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="z3kOPlYkljQr6b6lWWEr-59" vertex="1">
+        <mxCell id="z3kOPlYkljQr6b6lWWEr-63" value="ESOP expense must be &lt;u&gt;&lt;b&gt;recorded every year&lt;/b&gt;&lt;/u&gt; and only that portion for that year" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="z3kOPlYkljQr6b6lWWEr-59" vertex="1">
           <mxGeometry x="340" width="220" height="40" as="geometry">
             <mxRectangle width="220" height="40" as="alternateBounds" />
           </mxGeometry>
