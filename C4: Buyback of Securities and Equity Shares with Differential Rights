@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T06:25:24.699Z" agent="5.0 (X11)" etag="PppNCbvDdtsRuvocnxw9" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T06:25:29.958Z" agent="5.0 (X11)" etag="ARSlrBvOhDKY81SLTjrE" version="15.5.4" type="github">
   <diagram id="VnD_nrGOibuU59RRkXsP" name="Page-1">
     <mxGraphModel dx="1958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry y="40" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KPNpY_5MQVVeZdk53TZK-1" value="mind if Z is on credit you have to subtract it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1440" width="260" height="40" as="geometry" />
+          <mxGeometry x="590" y="1450" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
