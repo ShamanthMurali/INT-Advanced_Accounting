@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T16:18:22.430Z" agent="5.0 (X11)" etag="QaZT6hKs7merDtaw7t4_" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T17:56:07.206Z" agent="5.0 (X11)" etag="39mMFqClZhqx4_rW7pCG" version="15.5.5" type="github">
   <diagram id="WT_xYRnhfKCTYuXWempc" name="Page-1">
-    <mxGraphModel dx="2697" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2938" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,25 +257,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-92" value="Liquidation remuneration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="999.75" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CfqSTqMgT7yihnACnHBW-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-93" target="CfqSTqMgT7yihnACnHBW-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CfqSTqMgT7yihnACnHBW-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260.5" y="1680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-93" value="as a % of amt paid to ESH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200.5" y="1650" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200.25" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CfqSTqMgT7yihnACnHBW-94" target="CfqSTqMgT7yihnACnHBW-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-94" value="as a % of amt paid to creditors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1650" width="120" height="60" as="geometry" />
+          <mxGeometry x="999.75" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-95" target="CfqSTqMgT7yihnACnHBW-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-95" value="As a % of asset realised" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="1650" width="120" height="60" as="geometry" />
+          <mxGeometry x="799.75" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.209;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-96" target="CfqSTqMgT7yihnACnHBW-91" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -285,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-96" value="LR = LR% (ANSP + ASP)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1715" width="160" height="60" as="geometry" />
+          <mxGeometry x="780" y="1680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-98" target="CfqSTqMgT7yihnACnHBW-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -294,19 +296,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-98" value="&lt;div&gt;Step 1: calculate requirement&lt;br&gt;&lt;/div&gt;&lt;div&gt;requirement = USC + LR%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1715" width="160" height="60" as="geometry" />
+          <mxGeometry x="980" y="1680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-100" target="CfqSTqMgT7yihnACnHBW-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-100" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;amount available &amp;gt; Requirement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="906.25" y="1795" width="120" height="70" as="geometry" />
+          <mxGeometry x="906.25" y="1780" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfqSTqMgT7yihnACnHBW-102" target="CfqSTqMgT7yihnACnHBW-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-102" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;amount available &amp;lt; Requirement&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1093.75" y="1795" width="120" height="70" as="geometry" />
+          <mxGeometry x="1093.75" y="1780" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-118" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CfqSTqMgT7yihnACnHBW-104" target="CfqSTqMgT7yihnACnHBW-91" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -317,7 +319,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-104" value="`LR = x/(100+x)*USC`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1066.25" y="1865" width="175" height="70" as="geometry" />
+          <mxGeometry x="1066.25" y="1850" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-117" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.209;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CfqSTqMgT7yihnACnHBW-107" target="CfqSTqMgT7yihnACnHBW-91" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -328,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-107" value="`LR = x/(100)*USC`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="878.75" y="1865" width="175" height="70" as="geometry" />
+          <mxGeometry x="878.75" y="1850" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-119" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CfqSTqMgT7yihnACnHBW-111" target="CfqSTqMgT7yihnACnHBW-91" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -340,7 +342,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-111" value="`LR = x/(100+x)*USC`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1173" y="1715" width="175" height="70" as="geometry" />
+          <mxGeometry x="1173" y="1695" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CfqSTqMgT7yihnACnHBW-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CfqSTqMgT7yihnACnHBW-120" target="CfqSTqMgT7yihnACnHBW-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
