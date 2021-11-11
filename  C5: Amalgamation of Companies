@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T08:12:13.670Z" agent="5.0 (X11)" etag="6e_D-qlH131MzimTVzmn" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:21:52.708Z" agent="5.0 (X11)" etag="_7QA0_vBlirufNDwR_Or" version="15.7.3" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
     <mxGraphModel dx="2737" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -534,8 +534,8 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-2" target="lthJJ6roxLrwCFIqNwGu-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-2" value="WCF" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="1560" width="120" height="40" as="geometry" />
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-2" value="&lt;div&gt;Workers compensation fund&lt;br&gt;&lt;/div&gt;&lt;div&gt;(WCF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="1560" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-3" target="lthJJ6roxLrwCFIqNwGu-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -569,7 +569,7 @@
             <mxGeometry x="1190" y="3080" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-9" value="&lt;div&gt;Beware of accounting treatment in small company if bonus share or dividend was issued before amalgamation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accounts should be t/f adjusting such entries&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-9" value="&lt;div&gt;Beware of accounting treatment in small company &lt;br&gt;&lt;/div&gt;&lt;div&gt;if bonus share or dividend was issued before amalgamation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Accounts should be t/f after adjusting such entries&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1085" y="3160" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-12" value="&lt;font style=&quot;font-size: 72px&quot;&gt;Special Cases&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -663,13 +663,13 @@
         <mxCell id="lthJJ6roxLrwCFIqNwGu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-39" target="lthJJ6roxLrwCFIqNwGu-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-39" value="&lt;div&gt;1. Divisible profits&lt;/div&gt;&lt;div&gt;2. retained earnings&lt;/div&gt;&lt;div&gt;3. capital reserve&lt;/div&gt;&lt;div&gt;4. profits prior to Inc&lt;/div&gt;&lt;div&gt;5. revaluation reserve&lt;/div&gt;&lt;div&gt;6. securities premium&lt;/div&gt;&lt;div&gt;7. Capital redemption reserve (CRR)&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt; debenture redemption &lt;em&gt;reserve&lt;/em&gt; (&lt;em&gt;DRR&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;9. WCF(Reserve portion)[see. special cases]&lt;/div&gt;&lt;div&gt;10 investment fluction reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-39" value="&lt;div&gt;1. Divisible profits&lt;/div&gt;&lt;div&gt;2. retained earnings&lt;/div&gt;&lt;div&gt;3. capital reserve&lt;/div&gt;&lt;div&gt;4. profits prior to Inc&lt;/div&gt;&lt;div&gt;5. revaluation reserve&lt;/div&gt;&lt;div&gt;6. securities premium&lt;/div&gt;&lt;div&gt;7. Capital redemption reserve (CRR)&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt; debenture redemption &lt;em&gt;reserve&lt;/em&gt; (&lt;em&gt;DRR&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;9. WCF(Reserve portion)[see. special cases]&lt;/div&gt;&lt;div&gt;10. investment fluction reserve&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="3440" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-40" target="lthJJ6roxLrwCFIqNwGu-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-40" value="&lt;div&gt;1. provident fund&lt;/div&gt;&lt;div&gt;2. pension fund&lt;/div&gt;&lt;div&gt;3. gratuity fund&lt;/div&gt;&lt;div&gt;4. retirement fund&lt;/div&gt;&lt;div&gt;5. WCF(liability portion))[see. special cases]&lt;/div&gt;&lt;div&gt;6. Workmen profit sharing fund&lt;/div&gt;&lt;div&gt;7. staff welfare fund&lt;/div&gt;&lt;div&gt;8. insurance policy reserve/fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-40" value="&lt;div&gt;1. provident fund&lt;/div&gt;&lt;div&gt;2. pension fund&lt;/div&gt;&lt;div&gt;3. gratuity fund&lt;/div&gt;&lt;div&gt;4. retirement fund&lt;/div&gt;&lt;div&gt;5. WCF(liability portion)[see. special cases]&lt;/div&gt;&lt;div&gt;6. Workmen profit sharing fund&lt;/div&gt;&lt;div&gt;7. staff welfare fund&lt;/div&gt;&lt;div&gt;8. insurance policy reserve/fund&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="3440" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lthJJ6roxLrwCFIqNwGu-45" target="lthJJ6roxLrwCFIqNwGu-46" edge="1">
@@ -857,12 +857,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-104" value="deb in small co was at 50k but they are settled for 60k that means it is 10k loss for small co" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="690" y="2490" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="2490" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-105" value="t/f to NATO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="2590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lthJJ6roxLrwCFIqNwGu-106" value="&lt;div&gt;2. the debenture holder have been alloted 12% deb at a discount of rs.4 (100(assumed)-96)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the big co t/o the assets at 60k&lt;/div&gt;&lt;div&gt;so,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lthJJ6roxLrwCFIqNwGu-106" value="&lt;div&gt;2. the debenture holder have been alloted 12% deb at a discount of rs.4 (i.e. 100(FV assumed)-96)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;the big co t/o the assets at 60k&lt;/div&gt;&lt;div&gt;so,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="2480" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lthJJ6roxLrwCFIqNwGu-108" value="FV" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
