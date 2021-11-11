@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T12:06:37.365Z" agent="5.0 (X11)" etag="6dEWLMECamFxTqHMwDCM" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T08:12:13.670Z" agent="5.0 (X11)" etag="6e_D-qlH131MzimTVzmn" version="15.7.3" type="github">
   <diagram id="gT-2nWlLlnwGuaoVWljc" name="Page-1">
-    <mxGraphModel dx="4828" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2737" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,7 +407,7 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-173" value=".x shares" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="2xj69ejIfLscFSmYHfCP-171" vertex="1">
           <mxGeometry x="200" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-183" value="&lt;div&gt;NOES&lt;/div&gt;&lt;div&gt;Number of equity shares&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NOES = total NOES of small co. - dissenting share holders&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+        <mxCell id="2xj69ejIfLscFSmYHfCP-183" value="&lt;div&gt;NOES&lt;/div&gt;&lt;div&gt;(Number of equity shares)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NOES = total NOES of small co. - dissenting share holders&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-1170" y="1480" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-195" value="Share value not given?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-184" target="2xj69ejIfLscFSmYHfCP-194" edge="1">
@@ -478,7 +478,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets** - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as per PC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets includes BV of GW&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets = assets - liabilities&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;*** IV = Share value&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+        <mxCell id="2xj69ejIfLscFSmYHfCP-202" value="&lt;div&gt;`IV = (\text{Net assets** - Prefrence share holders*})/(NOES)`&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Preference share holders here mean amt payable &lt;br&gt;&lt;/div&gt;&lt;div&gt;to them as PC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets includes BV of GW&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;**Net assets = assets - liabilities&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;*** IV = Share value&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="1980" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xj69ejIfLscFSmYHfCP-205" target="2xj69ejIfLscFSmYHfCP-202" edge="1">
@@ -508,7 +508,7 @@
         <mxCell id="2xj69ejIfLscFSmYHfCP-214" value="NATO = PC" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-705" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2xj69ejIfLscFSmYHfCP-218" value="IV = IP" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+        <mxCell id="2xj69ejIfLscFSmYHfCP-218" value="IV = Issue Price" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="-705" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2xj69ejIfLscFSmYHfCP-222" value="&lt;div&gt;PC = NATO*&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(*NATO includes BV of GW)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
@@ -1151,10 +1151,10 @@
         <mxCell id="1pbbvkUAlwbX9dlN_rtj-9" value="&lt;div&gt;y&lt;/div&gt;&lt;div&gt;(y)&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;z&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="1pbbvkUAlwbX9dlN_rtj-7" vertex="1">
           <mxGeometry x="200" width="40" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="821XBdwqDpbRV9ShlHHp-2" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;&lt;u&gt;Issue price&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if MV per share is given then use that&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="821XBdwqDpbRV9ShlHHp-2" value="&lt;div&gt;Note:&lt;/div&gt;&lt;div&gt;&lt;u&gt;Issue price&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if MV per share is given then use that&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1625" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="821XBdwqDpbRV9ShlHHp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.843;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2xj69ejIfLscFSmYHfCP-94" target="821XBdwqDpbRV9ShlHHp-2">
+        <mxCell id="821XBdwqDpbRV9ShlHHp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.843;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2xj69ejIfLscFSmYHfCP-94" target="821XBdwqDpbRV9ShlHHp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
