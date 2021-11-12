@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T05:48:25.972Z" agent="5.0 (X11)" etag="tNzpajTGcIz5uCVE6L1-" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T05:48:40.097Z" agent="5.0 (X11)" etag="-dXP1kiVsRgcYwUdxH-A" version="15.7.3" type="github">
   <diagram id="xcMi0tmAItoGjIRTVEkD" name="Page-1">
     <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
           <mxGeometry x="-160" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bt_9orhfelH8Vhzk4J2O-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="560" width="280" height="60" as="geometry" />
+          <mxGeometry x="-240" y="560" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bt_9orhfelH8Vhzk4J2O-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-15">
           <mxGeometry width="280" height="60" as="geometry" />
@@ -61,10 +61,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bt_9orhfelH8Vhzk4J2O-19" value="&lt;div&gt;Equity shares are reduced to fully paid up&lt;/div&gt;eg. 10 to 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="520" width="280" height="40" as="geometry" />
+          <mxGeometry x="-240" y="520" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bt_9orhfelH8Vhzk4J2O-20" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="680" width="280" height="40" as="geometry" />
+          <mxGeometry x="-240" y="680" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bt_9orhfelH8Vhzk4J2O-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-20">
           <mxGeometry width="280" height="40" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bt_9orhfelH8Vhzk4J2O-24" value="&lt;div&gt;Equity shares are reduced to partly paid up&lt;/div&gt;eg. ES of FV10 reduced to ES of FV10 only 9 paid up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="620" width="280" height="60" as="geometry" />
+          <mxGeometry x="-240" y="620" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
