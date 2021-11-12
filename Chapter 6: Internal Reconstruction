@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T05:33:35.737Z" agent="5.0 (X11)" version="15.7.3" etag="nWRqNYXdTXAZESb1cKol" type="github"><diagram id="xcMi0tmAItoGjIRTVEkD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-12T05:48:25.972Z" agent="5.0 (X11)" etag="tNzpajTGcIz5uCVE6L1-" version="15.7.3" type="github">
+  <diagram id="xcMi0tmAItoGjIRTVEkD" name="Page-1">
+    <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bt_9orhfelH8Vhzk4J2O-1" target="bt_9orhfelH8Vhzk4J2O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-1" value="Internal construction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-2" value="&lt;div&gt;when a company has been making losses for a number of years, the FS doses&lt;/div&gt;&lt;div&gt; not represent a true and fair value of state of affairs of the company. &lt;br&gt;&lt;/div&gt;&lt;div&gt;it is carried out by &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. revaluation of assets&lt;/div&gt;&lt;div&gt;2. reassessment of liabilities&lt;/div&gt;&lt;div&gt;3. reducing share capital&lt;/div&gt;&lt;div&gt;4. writing off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-5" value="Accounting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-7">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-9" value="&lt;div align=&quot;left&quot;&gt;Liability a/c Dr.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To assets a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-8">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-10" value="&lt;div&gt;xxx&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-8">
+          <mxGeometry x="200" width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-11" value="Liabiiity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-12" value="Liabiiity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-13" value="&lt;div&gt;Reserves&lt;/div&gt;&lt;div&gt; and surplus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-14" value="Share capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="560" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-15">
+          <mxGeometry width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-17" value="&lt;div align=&quot;left&quot;&gt;ESC (FV = 10) a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To ESC (FV = 9) a/c&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To CR a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-16">
+          <mxGeometry width="200" height="60" as="geometry">
+            <mxRectangle width="200" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-18" value="&lt;div&gt;xxx&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-16">
+          <mxGeometry x="200" width="80" height="60" as="geometry">
+            <mxRectangle width="80" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-19" value="&lt;div&gt;Equity shares are reduced to fully paid up&lt;/div&gt;eg. 10 to 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="520" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-20" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="680" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-21" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-20">
+          <mxGeometry width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-22" value="&lt;div align=&quot;left&quot;&gt;ESC (diff only 10-9) a/c Dr.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;To CR a/c&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-21">
+          <mxGeometry width="200" height="40" as="geometry">
+            <mxRectangle width="200" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-23" value="&lt;div&gt;xxx&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;&lt;div&gt;xxx&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="bt_9orhfelH8Vhzk4J2O-21">
+          <mxGeometry x="200" width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bt_9orhfelH8Vhzk4J2O-24" value="&lt;div&gt;Equity shares are reduced to partly paid up&lt;/div&gt;eg. ES of FV10 reduced to ES of FV10 only 9 paid up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="620" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
