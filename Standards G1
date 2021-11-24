@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T12:19:05.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="Xrx9MTh4fYsFGxdLKIAi" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T12:20:26.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="VSemG6Eh9M8K8wrZeWG4" version="15.8.4" type="github">
   <diagram id="Nb5sfgJDHHTTSPCRKeIC" name="Page-1">
     <mxGraphModel dx="1958" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1080,6 +1080,342 @@
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-446" value="&lt;div&gt;Postpone the &lt;br&gt;&lt;/div&gt;&lt;div&gt;revenue&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="750" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-448" target="ad1bgfS8kFLfx2b3Tkyx-450">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-448" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;AS - 17&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-450" target="ad1bgfS8kFLfx2b3Tkyx-452">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Segment reporting&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" treeRoot="1" id="ad1bgfS8kFLfx2b3Tkyx-450">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="820" y="120" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-452" target="ad1bgfS8kFLfx2b3Tkyx-454">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-452" value="&lt;div&gt;An enterprise deals in multiple Products/Services and operates in different Geographical areas,&amp;nbsp; which&amp;nbsp; expose&amp;nbsp; to Significantly&amp;nbsp; different&amp;nbsp; risk&amp;nbsp; and rewards/returns.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Information about&amp;nbsp; Multiple&amp;nbsp; Products/Services&amp;nbsp; and&amp;nbsp; operations&amp;nbsp; in&amp;nbsp; different Geographical areasis called Segment Information.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Disclosure of such information is called segment reporting.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="715" y="200" width="530" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-453" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-454" target="ad1bgfS8kFLfx2b3Tkyx-457">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-454" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;SEGMENT REPORTING HELPS USERS OF FINANCIAL STATEMENTS :&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.To better understand the PERFORMANCE of the enterprise;&lt;/div&gt;&lt;div&gt;2.To better assess the RISKS AND RETURNS of the enterprise; &lt;br&gt;&lt;/div&gt;&lt;div&gt;3.To make more informed judgements about the enterprise as a whole.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="770" y="360" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-457" target="ad1bgfS8kFLfx2b3Tkyx-459">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-456" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-457" target="ad1bgfS8kFLfx2b3Tkyx-461">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-457" value="&lt;div&gt;&lt;b&gt;TYPES OF&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SEGMENT&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="920" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-459" target="ad1bgfS8kFLfx2b3Tkyx-465">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-459" value="BUSINESS SEGMENT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="720" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-460" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-461" target="ad1bgfS8kFLfx2b3Tkyx-463">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-461" value="&lt;div&gt;GEOGRAPHICAL&lt;/div&gt;&lt;div&gt;SEGMENT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1120" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-462" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-463" target="ad1bgfS8kFLfx2b3Tkyx-531">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-463" value="Business segment is a distinguishable unit of an enterprise engaged in providing products or services within a particular economic environment. Further, it is subject to risk and returns that are different from units operating in other economic environments." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1040" y="600" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-465" target="ad1bgfS8kFLfx2b3Tkyx-531">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-465" value="Business segment is a distinguishable unit of an entreprise engaged in providing individual product or service or a group of related products or services. Further, it is subject to risk and returns that are different from those of other business segments." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="640" y="600" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-467" target="ad1bgfS8kFLfx2b3Tkyx-472">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-467" value="&lt;u&gt;&lt;b&gt;What is a reportable segment&lt;br&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="890" y="890" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-468" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-472" target="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-469" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-472" target="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-470" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-472" target="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-471" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-472" target="ad1bgfS8kFLfx2b3Tkyx-515">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="2010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-472" value="First it must pass &lt;u&gt;&lt;b&gt;any of the&lt;/b&gt;&lt;/u&gt; three tests, individually." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="880" y="930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-473" value="" style="swimlane;startSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="680" y="1000" width="600" height="250" as="geometry">
+            <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-474" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-475" value="1. revenue test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-476" value="total = internal segment revenue + external segment revenue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry x="130" y="190" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-477" value="not a reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry x="10" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-478" value="Reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry x="470" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-479" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;segment revenue &amp;gt;= 10% of total&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-473">
+          <mxGeometry x="180" y="70" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-480" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-473" source="ad1bgfS8kFLfx2b3Tkyx-475" target="ad1bgfS8kFLfx2b3Tkyx-479">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-481" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-473" source="ad1bgfS8kFLfx2b3Tkyx-479" target="ad1bgfS8kFLfx2b3Tkyx-478">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-482" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-473" source="ad1bgfS8kFLfx2b3Tkyx-479" target="ad1bgfS8kFLfx2b3Tkyx-477">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-483" value="" style="swimlane;startSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="650" y="1280" width="660" height="430" as="geometry">
+            <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-484" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry width="660" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-485" value="&lt;div&gt;2. result lest&lt;/div&gt;&lt;div&gt;(Profit or loss test)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="255" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-486" value="Reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="505" y="305.01" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-487" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-488" target="ad1bgfS8kFLfx2b3Tkyx-490">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-488" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;segment profit/losses &amp;gt; segment value&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="195" y="270.01" width="260" height="109.99" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-489" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-488" target="ad1bgfS8kFLfx2b3Tkyx-486">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-490" value="not a reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="35" y="305.01" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-491" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-493" target="ad1bgfS8kFLfx2b3Tkyx-496">
+          <mxGeometry x="0.2591" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="109" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-492" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-493" target="ad1bgfS8kFLfx2b3Tkyx-498">
+          <mxGeometry x="0.3941" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-493" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;total profits &amp;gt; total losses&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="210" y="69" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-494" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-485" target="ad1bgfS8kFLfx2b3Tkyx-493">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4995.000000000001" y="1261" as="sourcePoint" />
+            <mxPoint x="4995.000000000001" y="1390.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-495" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-496" target="ad1bgfS8kFLfx2b3Tkyx-488">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-496" value="segment value = total profits * 10%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="95" y="189" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-497" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-483" source="ad1bgfS8kFLfx2b3Tkyx-498" target="ad1bgfS8kFLfx2b3Tkyx-488">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-498" value="segment value = total losses * 10%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="425" y="189" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-499" value="Segment profit/loss = profit or loss(ignore - ) of individual segments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="130" y="399" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-500" value="example" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="ad1bgfS8kFLfx2b3Tkyx-483">
+          <mxGeometry x="35" y="19" width="120" height="40" as="geometry">
+            <mxRectangle x="20" y="19" width="200" height="291" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-501" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-500">
+          <mxGeometry y="40" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-502" value="&lt;div&gt;E.g. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;segments&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a = 40 profit&lt;/div&gt;&lt;div&gt;b = 20 loss&lt;/div&gt;&lt;div&gt;c = 50 loss&lt;/div&gt;&lt;div&gt;d = 5 profit&lt;/div&gt;&lt;div&gt;e = 6 loss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; total profits = 45, total loss = 76&lt;/div&gt;&lt;div&gt;&amp;gt; since loss is greater, 76*10%=7.6&lt;/div&gt;&lt;div&gt;&amp;gt;hence segment value = 7.6&lt;/div&gt;&lt;div&gt;&amp;gt; individual segment calculation&lt;/div&gt;&lt;div&gt;a &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;div&gt;b &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;div&gt;c &amp;gt; 7.6, TRUE, =re-portable&lt;/div&gt;&lt;div&gt;&lt;div&gt;d &amp;gt; 7.6, FALSE, = dont report&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;e &amp;gt; 7.6, FALSE, =dont report&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-500">
+          <mxGeometry y="40" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-503" value="" style="swimlane;startSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="672" y="1737" width="600" height="250" as="geometry">
+            <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-504" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-505" value="3. asset test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-506" value="total = total asset of all segments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry x="130" y="190" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-507" value="not a reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry x="10" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-508" value="Reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry x="470" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-509" value="&lt;div&gt;If&lt;/div&gt;&lt;div&gt;segment assets &amp;gt;= 10% of total&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-503">
+          <mxGeometry x="180" y="70" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-510" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-503" source="ad1bgfS8kFLfx2b3Tkyx-505" target="ad1bgfS8kFLfx2b3Tkyx-509">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-511" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-503" source="ad1bgfS8kFLfx2b3Tkyx-509" target="ad1bgfS8kFLfx2b3Tkyx-508">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-512" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-503" source="ad1bgfS8kFLfx2b3Tkyx-509" target="ad1bgfS8kFLfx2b3Tkyx-507">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-515" target="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-515" target="ad1bgfS8kFLfx2b3Tkyx-529">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-515" value="second it &lt;b&gt;must pass&lt;/b&gt; overall test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="872" y="2020" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-516" value="" style="swimlane;startSize=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="672" y="2080" width="600" height="250" as="geometry">
+            <mxRectangle x="4570" y="870" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-517" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-518" value="all reportable segments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-519" value="&lt;b&gt;tot EXT rev&lt;/b&gt; = total external revenue = total revenue - internal revenue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="80" y="190" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-520" value="management should add segment and make it more than 75%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="10" y="92.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-521" value="Reportable segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="470" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-522" value="&lt;div&gt;is&lt;/div&gt;&lt;div&gt;&lt;b&gt;tot EXT rev&lt;/b&gt; &amp;gt;= 75% of &lt;b&gt;tot rev&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="180" y="70" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-523" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-516" source="ad1bgfS8kFLfx2b3Tkyx-518" target="ad1bgfS8kFLfx2b3Tkyx-522">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-524" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-516" source="ad1bgfS8kFLfx2b3Tkyx-522" target="ad1bgfS8kFLfx2b3Tkyx-521">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-525" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ad1bgfS8kFLfx2b3Tkyx-516" source="ad1bgfS8kFLfx2b3Tkyx-522" target="ad1bgfS8kFLfx2b3Tkyx-520">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-526" value="internal revenue = revenue made from inter segment sales i.e within the enterprise" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="28" y="210" width="542" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-527" value="&lt;b&gt;tot rev&lt;/b&gt; = total revenue of the enterprise (it does not include internal revenue)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad1bgfS8kFLfx2b3Tkyx-516">
+          <mxGeometry x="28" y="230" width="542" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-528" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-529" target="ad1bgfS8kFLfx2b3Tkyx-534">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-529" value="but if the manager designates any segment to be reportable even if it does not satisfy any of the conditions, then it becomes reportable." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="711" y="2360" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-530" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-531" target="ad1bgfS8kFLfx2b3Tkyx-467">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-531" value="&lt;div&gt;business has the choice to select one of the segment as their &lt;u&gt;&lt;b&gt;primary segment.&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects business segmentation as primary, then geographical segment will become secondary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; if the business selects geographical segmentation as primary, then business segment will become secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="800" y="740" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-532" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-534" target="ad1bgfS8kFLfx2b3Tkyx-538">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-533" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-534" target="ad1bgfS8kFLfx2b3Tkyx-544">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-534" value="&lt;b&gt;Disclosures &lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="911" y="2450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-535" value="&lt;div&gt;a)Segment Revenue (External + Internal segment)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b)Segment Result&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c) Segment Assets.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d)Segment Liabilities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e)Capital expense incurred during the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f)Depreciation charge for the period&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;g)Other&amp;nbsp; non-cash&amp;nbsp; expenses&amp;nbsp; during the period. Disclosure required for secondarysegments.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="580" y="2610" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-536" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-538" target="ad1bgfS8kFLfx2b3Tkyx-540">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-537" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-538" target="ad1bgfS8kFLfx2b3Tkyx-542">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-538" value="&lt;div&gt;For &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;secondary segments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1180" y="2530" width="139" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-539" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-540" target="ad1bgfS8kFLfx2b3Tkyx-545">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-540" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;geographical segment &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;is secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1009" y="2610" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-541" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-542" target="ad1bgfS8kFLfx2b3Tkyx-548">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-542" value="&lt;div&gt;If &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Business segment &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;is secondary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1351" y="2610" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-543" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-544" target="ad1bgfS8kFLfx2b3Tkyx-535">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-544" value="&lt;div&gt;For &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;primary segments&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="670" y="2540" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-545" value="&lt;div&gt;•Revenue from external customers by geographical location (must pass revenue test)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Assets by geographical location of assets (must pass asset test)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Fixed Asset acquired during the period&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="919" y="2680" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-546" value="&lt;div&gt;•Segments revenue from external customers.&lt;/div&gt;&lt;div&gt;•Segments assets&lt;/div&gt;&lt;div&gt;•Fixed assets acquired during the period&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1292" y="2790" width="258" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-547" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-548" target="ad1bgfS8kFLfx2b3Tkyx-546">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-548" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(;( yes you have to apply this condition again on the the segents) &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If a business seg&#39;s&amp;nbsp; external&amp;nbsp; sales&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; external&amp;nbsp; revenue&amp;nbsp; or&amp;nbsp; Business&amp;nbsp; segment assets&amp;nbsp; are &amp;gt;10%&amp;nbsp; of&amp;nbsp; total&amp;nbsp; assets&amp;nbsp; of&amp;nbsp; all&amp;nbsp; business&amp;nbsp; segs,&amp;nbsp; then&amp;nbsp; disclose&amp;nbsp; for&amp;nbsp; those business segments:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1262" y="2680" width="318" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
