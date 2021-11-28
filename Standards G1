@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T06:17:35.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="er-FkaP-VMYxzYFTGkFW" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T06:29:16.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="4dDO--oEev_2p8Wb3jay" version="15.8.6" type="github">
   <diagram id="Nb5sfgJDHHTTSPCRKeIC" name="Page-1">
-    <mxGraphModel dx="1454" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1575" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3780,14 +3780,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-1248" value="&lt;div&gt;if&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. disposing of substantially in its entirety such as selling the component {business/geographical segment} in a single transaction or by de-merger or spin off of ownership of the component of the enterprise shareholders or&lt;/div&gt;&lt;div&gt;{if an entire segment is sold off to a buyer or if an entire segment is de-merged from a cos}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;2. Disposing of piecemeal, such as by selling off the components assets and setting it’s liabilities individually or&lt;/div&gt;&lt;div&gt;{an entire segment is sold off part by part}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. Terminating through abandonment&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="310" width="480" height="210" as="geometry" />
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-1248" value="&lt;div&gt;{What is a discontinuing operation?}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. disposing of substantially in its entirety such as selling the component {business/geographical segment} in a single transaction or by de-merger or spin off of ownership of the component of the enterprise shareholders&lt;/div&gt;&lt;div&gt;{if an entire segment is sold off to a buyer or if an entire segment is de-merged from a company}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Disposing of piecemeal, such as by selling off the components assets and setting it’s liabilities individually&lt;/div&gt;&lt;div&gt;{an entire segment is sold off part by part}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. Terminating through abandonment&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="310" width="480" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-1249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-1250" target="ad1bgfS8kFLfx2b3Tkyx-1252" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-1250" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;what is not considered as a discontinuation&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Gradual phasing out of product line or class of service. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Discontinuing, even if abruptly, several products within an ongoing line of business. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Shifting of some production or marketing activities for particular line of business from one&amp;nbsp;&lt;span&gt;location to another.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;• Selling a subsidiary whose activities are similar to those of the parent or its other subsidiaries. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Closing of facility to achieve productivity, improvements or other cost savings&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="310" width="480" height="210" as="geometry" />
+          <mxGeometry x="2800" y="310" width="480" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-1251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-1252" target="ad1bgfS8kFLfx2b3Tkyx-1270" edge="1">
           <mxGeometry relative="1" as="geometry" />
