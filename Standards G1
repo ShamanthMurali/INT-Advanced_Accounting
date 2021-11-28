@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T12:36:57.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="9Q8rLDLJCb64uH2v46Ss" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T13:11:11.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="c-2bgytROqFVXniFZ82E" version="15.8.6" type="github">
   <diagram id="Nb5sfgJDHHTTSPCRKeIC" name="Page-1">
-    <mxGraphModel dx="1454" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1907" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2149,7 +2149,7 @@
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-768" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-769" target="ad1bgfS8kFLfx2b3Tkyx-772" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-769" value="The lease payable and the leased asset&lt;br&gt;&lt;div&gt;should be recognised at the Lower of:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Present Value of MLP(minimum lease Payments).&lt;/div&gt;&lt;div&gt;2. fair value of the leased asset at the&lt;/div&gt;inception{&lt;span&gt;&lt;span&gt;starting point of the activity}&lt;/span&gt;&lt;/span&gt;&amp;nbsp;of the lease" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-769" value="The lease payable and the leased asset&lt;br&gt;&lt;div&gt;should be recognised at the Lower of:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Present Value of MLP(minimum lease Payments).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. fair value of the leased asset at the&lt;/div&gt;inception{&lt;span&gt;&lt;span&gt;starting point of the activity}&lt;/span&gt;&lt;/span&gt;&amp;nbsp;of the lease" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1380" y="1910" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-770" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-772" target="ad1bgfS8kFLfx2b3Tkyx-773" edge="1" visible="0">
@@ -2158,7 +2158,7 @@
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-771" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-772" target="ad1bgfS8kFLfx2b3Tkyx-778" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-772" value="MLP=lease rentals payable + guaranteed residual value - [contingent rent - reimbursement charges if any]&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-772" value="MLP = lease rentals payable + guaranteed residual value - [contingent rent - reimbursement charges if any]&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1240" y="2060" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-773" value="Abb." style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
@@ -2190,8 +2190,8 @@
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-781" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-782" target="ad1bgfS8kFLfx2b3Tkyx-791" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-782" value="&lt;div&gt;unguaranteed residual value (URV)&lt;/div&gt;&lt;div&gt;e.g. 400&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="1562.5" y="2200" width="120" height="60" as="geometry" />
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-782" value="&lt;div&gt;unguaranteed residual value (URV)&lt;/div&gt;&lt;div&gt;e.g. 400(i.e. 1000-600)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="1560" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-783" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-786" target="ad1bgfS8kFLfx2b3Tkyx-787" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -2202,7 +2202,7 @@
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-785" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-786" target="ad1bgfS8kFLfx2b3Tkyx-729" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-786" value="IRR = [it is the base percentage at which the present value money you are going to make you going to make from a project will be equal to the amount of money you are going to spend on the project today]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-786" value="IRR = [it is the base percentage at which the present value of money you are going to make from a project in the future will be equal to the amount of money you are going to spend on the project today]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="1360" y="2430" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-787" value="&lt;div&gt;Abb. IRR&lt;/div&gt;&lt;div&gt;&amp;gt; Internal rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; implicit rate of return&lt;/div&gt;&lt;div&gt;&amp;gt; economic rate of return(ERR)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
@@ -2353,7 +2353,7 @@
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-833" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="ad1bgfS8kFLfx2b3Tkyx-832" vertex="1">
           <mxGeometry width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-834" value="Leased recivable &amp;nbsp; 16Lakhs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="ad1bgfS8kFLfx2b3Tkyx-832" vertex="1">
+        <mxCell id="ad1bgfS8kFLfx2b3Tkyx-834" value="Leased receivable &amp;nbsp; 1600k" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="ad1bgfS8kFLfx2b3Tkyx-832" vertex="1">
           <mxGeometry x="150" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-835" value="B/S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ad1bgfS8kFLfx2b3Tkyx-829" vertex="1">
@@ -2414,10 +2414,10 @@
           <mxGeometry x="100" y="10" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-854" value="shows the interest you will earn from the lease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="1822.5" y="2650" width="70" height="80" as="geometry" />
+          <mxGeometry x="1760" y="2650" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-855" value="shows the interest to pay lessor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="1200" y="2650" width="70" height="80" as="geometry" />
+          <mxGeometry x="1250" y="2650" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-856" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-858" target="ad1bgfS8kFLfx2b3Tkyx-859" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -2575,7 +2575,7 @@
           <mxGeometry x="1540" y="2940" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-901" value="&lt;div&gt;why?&lt;/div&gt;&lt;div&gt;when we are need of funds&lt;/div&gt;&lt;div&gt;we sell it and use the funds and also use the asset but with nominal rent&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="2070" y="2920" width="150" height="80" as="geometry" />
+          <mxGeometry x="2040" y="2920" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-902" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ad1bgfS8kFLfx2b3Tkyx-904" target="ad1bgfS8kFLfx2b3Tkyx-908" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -2875,7 +2875,7 @@
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-986" value="&lt;div&gt;if loss is &lt;br&gt;&lt;/div&gt;&lt;div&gt;not compensated&lt;/div&gt;" style="swimlane;startSize=45;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2190" y="3390" width="122.5" height="45" as="geometry">
-            <mxRectangle x="6350" y="3390" width="249.25" height="122.5" as="alternateBounds" />
+            <mxRectangle x="2190" y="3390" width="249.25" height="122.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-987" value="you sold the asset at a loss. but the rent you have agreed to pay is equal to or more than the market price for such rent." style="rounded=0;whiteSpace=wrap;html=1;" parent="ad1bgfS8kFLfx2b3Tkyx-986" vertex="1">
@@ -2883,7 +2883,7 @@
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-988" value="&lt;div&gt;if loss is &lt;br&gt;&lt;/div&gt;&lt;div&gt;compensated&lt;/div&gt;" style="swimlane;startSize=45;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2190" y="3330" width="122.5" height="45" as="geometry">
-            <mxRectangle x="6350" y="3330" width="252.5" height="120" as="alternateBounds" />
+            <mxRectangle x="2190" y="3330" width="252.5" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ad1bgfS8kFLfx2b3Tkyx-989" value="you sold the asset at a loss. but the rent you have agreed to pay is less than the market price for such rent." style="rounded=0;whiteSpace=wrap;html=1;" parent="ad1bgfS8kFLfx2b3Tkyx-988" vertex="1">
