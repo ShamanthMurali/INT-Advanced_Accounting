@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T13:45:01.348Z" agent="5.0 (X11)" etag="_dahWs-ubyoJ7X5x_pA6" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T14:21:43.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="fX_fA1ExyEyggS5gMyYz" version="16.5.3" type="github">
   <diagram id="twyIu_2DBpQ33pAa9CX8" name="Page-1">
-    <mxGraphModel dx="2317" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="HYHgVCszjDlrY0Yv24N1-4" value="Cost of control" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1880" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HYHgVCszjDlrY0Yv24N1-5">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HYHgVCszjDlrY0Yv24N1-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="164" y="670" as="targetPoint" />
           </mxGeometry>
@@ -63,7 +63,7 @@
         <mxCell id="k0UTaCpy3_ewbkWii4iK-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k0UTaCpy3_ewbkWii4iK-3" target="k0UTaCpy3_ewbkWii4iK-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-3" target="HYHgVCszjDlrY0Yv24N1-5">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k0UTaCpy3_ewbkWii4iK-3" target="HYHgVCszjDlrY0Yv24N1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-3" value="Year ending" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -212,7 +212,7 @@
         <mxCell id="k0UTaCpy3_ewbkWii4iK-78" value="&lt;div&gt;(-) Interim dividend&lt;/div&gt;&lt;div&gt;&lt;div&gt;(portion of amt of months from &lt;br&gt;&lt;/div&gt;&lt;div&gt;DOA to payment)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329.87" y="1180" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-81" target="k0UTaCpy3_ewbkWii4iK-133">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="k0UTaCpy3_ewbkWii4iK-81" target="k0UTaCpy3_ewbkWii4iK-133" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="1520" />
@@ -221,7 +221,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-63" target="k0UTaCpy3_ewbkWii4iK-81">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k0UTaCpy3_ewbkWii4iK-63" target="k0UTaCpy3_ewbkWii4iK-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-80" y="1340" />
@@ -229,7 +229,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-64" target="k0UTaCpy3_ewbkWii4iK-81">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k0UTaCpy3_ewbkWii4iK-64" target="k0UTaCpy3_ewbkWii4iK-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="1320" />
@@ -237,7 +237,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-75" target="k0UTaCpy3_ewbkWii4iK-81">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k0UTaCpy3_ewbkWii4iK-75" target="k0UTaCpy3_ewbkWii4iK-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="261" y="1320" />
@@ -245,7 +245,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C9qJ2BLa8acTyw0uF3_W-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k0UTaCpy3_ewbkWii4iK-76" target="k0UTaCpy3_ewbkWii4iK-81">
+        <mxCell id="C9qJ2BLa8acTyw0uF3_W-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k0UTaCpy3_ewbkWii4iK-76" target="k0UTaCpy3_ewbkWii4iK-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="1350" />
@@ -631,6 +631,9 @@
         </mxCell>
         <mxCell id="k0UTaCpy3_ewbkWii4iK-223" value="." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-20.72" y="2583" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YwjzpFj6uGlX0Zpb1dxC-1" value="Pre Acquisition dividend must be subtracted from the Cost of Investment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1390" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
